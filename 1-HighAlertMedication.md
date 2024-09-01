@@ -78,5 +78,4 @@
 - wight patient for accurate dose of heparin
 
 ### look alike sound alike drugs
-
-![looks alike sounds alike](C:\Users\20115\Documents\My Folder\Nursing-vault\internship\medical surgical\highalert.png)
+![photo](./highalert.png)
