@@ -1,4 +1,4 @@
-### Whole Blood
+### Whole Blood./g
 massive hemorrhage e:g trauma
 ### Red blood cells
 iron deficiency anemia
@@ -6,8 +6,8 @@ each 1 unit of red packed blood cells raises HB level 1g/dl
 ### plasma transfusion
 for coagulopathies
 ##### types:-
-	frozen plasma
-	fresh frozen plasma
+- frozen plasma
+- fresh frozen plasma
 ### Platelets
 bone marrow failure
 thrombocytopenia to treat hemorrhage
@@ -17,7 +17,7 @@ hemophilia
 severe liver disease
 fibrinogen < 1.5
 ### Nursing
-**before** 
+1. **before** 
 	- assess readiness and take permission and informed consent
 	- blood sample drawing and send to lab for ABO, RH, virology
 	- physician order: type of blood component, amount, timing (2-4hrs) choose higher period for renal and cardiac patients
@@ -28,14 +28,14 @@ fibrinogen < 1.5
 	- v/s : stable it before transfusion, don't transfuse until within normal range
 	- assess any pre-existing signs and symptoms e:g dyspnea, rashes, pruritis, wheezing or chills	
 	- read label and check expiration date, discoloration, presence of clots, any signs of leakage, blood group, RH and compare with patient chart
-**procedure**
+2. **procedure**
 	- rub your hand and gather equipment
 	- third check with other HCP
 	**NOTE**
 		- transfusion set drop factor is 10drop/min
 		- don't expose unit to sun when transferred between hospitals, but in ice pack
 		- to warm frozen blood component put it in a plastic bag upright in a warm basin and administer ==within 30min== or return back 
-**During**
+3. **During**
 	- identify and explain and assess readiness
 	- voiding before
 	- v/s again immediately before initiation
