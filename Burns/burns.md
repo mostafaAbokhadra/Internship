@@ -36,7 +36,7 @@
 		- full thickness 2-10%
 		- don't present in cosmetic areas
 	3. major
-		- > 25% of TBSA (systemic effect)
+		- 25% of TBSA (systemic effect)
 		- full thickness > 10%
 		- burns present in cosmetic areas
 

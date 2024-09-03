@@ -1,4 +1,4 @@
-### Whole Blood./g
+### Whole Blood
 massive hemorrhage e:g trauma
 ### Red blood cells
 iron deficiency anemia
