@@ -1,14 +1,17 @@
 # care of mechanically ventilated patients
 
+[amazing reference to increase your knowledge](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10421733/)
+
 ### initial safety checks
-- observe patient, tube and MV and circuit
-- chest rising and falling, auscultate air entry, fixation of tube, patient color, v/s esp. pulse and BP, LOC fluctuate -> may be hypoxic -> do suction
-- fast access to MRB, suction unit and catheters, intubation equipments (if in case of exutabation occur esp. in risky patient e:g agitated)
-- adjust MV setting e:i alarm limits e:g when HR exceeds 110
+- observe patient, tube, MV and circuit
+- observe chest rising and falling, auscultate air entry, ensure fixation of tube, observe patient color e:g flushed or cyanosed
+v/s esp. pulse and BP, LOC fluctuate -> may be hypoxic -> do suction
+- fast access to MRB, suction unit and catheters, intubation equipments (in case of exutabation occur esp. in risky patient e:g agitated)
+- adjust MV setting e:i alarm limits e:g when HR exceeds 110 the alarm will shout
 
 ### Routine care of MV patients
 - patient and family
-- tube
+- tube (airway)
 - MV itself
 
 ### for patient and family
@@ -16,82 +19,112 @@
 - **oral care** -> to prevent pnuemonia (VAP)
 - **eye care** -> blinking refelexes are impaired due to low LOC , close his eyes after care becaues it's sensetive to bacteria and infection
 - **nutrition** esp. proteins, becarful of high carbs because it produce CO2, ensure enough water intake to prevent dryness
-- **skin care**: prevent pressure ulcers, sedation also cause immobility :)
-positioning unitll contraindicated, air matress, moisture the skin using creams
-- sleep promotion, decrease interruption of sleep for interventions
-- **communication** board contains common ADLS tasks so patinet can point to it and you do it for him
--**pain management**: continuous assessment using NON verbal pain scale, consider complaint and consult doctor for analgesics
-chest pain can hinder patient from breathing normally
-- **family care**: teaching about MV, weaning and it's consequences, usually MV is disconnected after 8 hours from surgeries
+- **skin care**: prevent pressure ulcers that may results from sedation and prolonged immobility
+positioning unless contraindicated, air matress, moisture the skin using creams
+- **sleep promotion**, decrease interuption of sleep for interventions
+- **communication** board contains common ADLS tasks so patinet can point to it e:g patient points at positioning photo on the board indicating that he wants you to put him on that position
+-**pain management**: continuous assessment using NON verbal pain scale, consider his complaint and consult doctor for analgesics
+> [!IMPORTANT]
+> chest pain can hinder patient from breathing normally
+- **family care**: teaching about MV, weaning and it's consequences
+> [!NOTE]
+> usually MV is disconnected after 8 hours from surgeries
 
-
-## trouble shooting
-
-when troubleshooting think
+## troubleShooting when vent is continously alarming w/o obvious reason 
+**think**
 1. machine
 2. patient
 3. tube
 
-- call for help
-- disconnect patient from MV
-- hyperventilation 100% MRB
-- if pateint still uncompartable consider patient problems not machine
-- patency of tube: is it obstructed? does the suction insert to the end ?
-- ABG
-- X-ray -> pnuemothorax or tension..
+#### steps when troubleshooting
+
+1. call for help
+2. disconnect patient from MV
+3. hyperventilation using 100% by MRB, if patient is easily ventilated and o2 sat is going back up to normal then usually the problem is in the machine, if pateint is still uncomfy consithink that it may be a patient problem not machine
+- patency of tube: is it obstructed? does the suction catheter is inserted to the end ?
+- does ABG interpretation indicates other problem?
+- X-ray -> can indicates pnuemothorax or tension ....
 
 # vent alarms
 
 1. ### MV inoperative
-- ventilator is not woking so manually ventilate patient untill new ventilator is set up or some one is troubleshooting it
+- ventilator is not woking
+**action**: manually ventilate patient untill new ventilator is set up or some one is trying to fix the broken vent
 
-2. ### low pressure alarm
+2. ### low pressure alarm, low PEEP/CPAP , low exhaled volume
 - patient is leaking some inspired air
+
 **assess all of the following**
-- something is disconnected? airflow is inadequate? ETT cuff leak? so manually ventialte patient untill leaking is resolved
+- something is disconnected ?
+- airflow is inadequate?
+- ETT cuff leak? 
+
+**action**: manually ventialte patient untill leaking is resolved
 
 3. ### high pressure alarm
-- pip reached limt
+- PIP reached 
 - something is obstructed
-- secretions, bitting tube? water accumulate in circuit? decrese lung compliance e:g ARDS and pulmonary edema? 
+
+**assess the following**
+- secretions in tube ? -> suction
+- bitting tube ? -> OPA may be neccessary
+- water accumulate in circuit ? -> drain the water on a basket
+- decrese lung compliance e:g ARDS and pulmonary edema? -> use high PEEP and monitor it's complicatin e:g hypotension
+- kinked tubes ? -> fix it
 
 4. ### apnea alarm
 - occurs in spantaneous modes e:g cpap
 - patient doesn't take breating spantaneously
-- encourage pateint to breath
+
+**action**: encourage pateint to breath or give single breath, rate may should be increased
 
 5. ### increased minute or tidal volume
 - patient is breating more spantaneously breathing
-- hypoxia
-- increased lung compliance
+- or may be due to hypoxia
+- or increased lung compliance (patient is getting better)
+
+**action:** check RR and evaluate ABG, ETCO2 and patient improvement
+
+> [!NOTE]
+> ETCO2 (End-tidal carbon dioxide) is the level of carbon dioxide that is released at the end of an exhaled breath 
+> it reflects the adequacy with which carbon dioxide (CO2) is carried in the blood back to the lungs and exhaled.
+> it can provide an indication of cardiac output and pulmonary blood flow
+> measured using capnometry or capnography
+> Capnometry provides a numerical value for ETCO2. In contrast, capnography delivers a more comprehensive measurement that is displayed in both graphical (waveform) and numerical form.
+> capnography is more widely used
 
 6. ### change in RR
-- hypoxia or hypercarbia
-- increased metabolic demand
-- obtain ABG
+- may be due to hypoxia or hypercarbia
+- increased metabolic demand (catabolc state, stress, pain, healing)
+
+**action**: obtain ABG and interprate, check RR and ETCO2
 
 ### complicatoin of MV
-1. patient ventilator dyssynchrony
+
+1. **patient ventilator dyssynchrony**
     - patient is fighting the MV
+        **action:**
         - comfort patient, put on sedation
         - consider changing mode as appropriate
-2. MV induced lung injury
-    - barotrauma
+2. **MV induced lung injury**
+    - **barotrauma**
         - due to high pressure
-    - volutrauma
+    - **volutrauma**
         - due to high tidal volume
-    - atelectrauma
+    - **atelectrauma**
         - due to repeating opening and closing of alveoli (shearing forces)
-    - biotrauma
-    it can lead to ARDS
-<mark>NOTE: revise ARDS</mark>
+    - **biotrauma**
+        - Biotrauma is the release of chemical mediators caused by overstretching, shearing, or excessive inspiratory pressures during mechanical ventilation. <mark>it can lead to ARDS</mark>
+> [!IMPORTANT]
+> Revise ARDS
 
-### Vap
+3. ### Vap
+- due to colonization of the oropharynx
 - vap occur after 48-72 hrs of itubation
 **bundle**
 - elevate head of bed 30-45 degree
 - daily sedation vacation to assess readiness to wean
-- oral hygeine with or without (chlorhexidine) 12% with or without toothburshing
+- oral hygeine with or without (chlorhexidine) 12% Q6hrs with or without toothburshing Q12hrs
 - hand hygeine prior to touching any ventrilator tubing or patient mouth
 - subglotic aspiration
 - cuff pressure maintaince
@@ -99,16 +132,20 @@ when troubleshooting think
 - DVT propylaxis
 prevent tube obstruction
 
+4. ### Cardio compormis
 
-4. Cardio compormis
-- hight PPV -> compress heart -> decrease CO, and venous return, decrease BP and pulmonary edema
-increase ICP due to backward pressure
+1. high PPV -> increase intrathoracic pressure -> compress the heart -> decrease venous return and preload -> decrease CO -> **decrease BP** and backward reflux of fluids -> **pulmonary edema**
+2. impaired cerebral venous return -> **increase ICP** due to backward pressure
+3. **hepatic and renal dysfunction**
+- decrease venous return -> backward flow of blood to liver -> hepatomegaly and impaired liver function
+- high PPV -> cardiac compression and decrease blood flow to these organs 
 
-5. hepatic and renal dysfunction
-due to cardiac compression and decrease blood flow to these organs
-6. GIT 
- - inflation and abdominal distension -> decrease lung capacity -> NGT to decompress air -> prevent by maintaining cuff inflation
-- sedation and immobiliy -> constipation -> enema
+5. ### GIT 
+
+- abdominal distension -> decrease lung capacity -> patient can't breate normally
+**action:** NGT to decompress air and prevent by maintaining cuff inflation
+- ETT -> pharyngeal stimulation -> vomiting
+- sedation and immobiliy -> constipation -> do enema
 
 
 # questions
@@ -127,26 +164,4 @@ oral suction as needed
 
 5. MV patient should avoid diet high in ?
 <mark>carbs</mark>
-
-
 ----
-
-### preparation (out of book)
-- assessment of MV equipments and supplies
-    - must be ready in the moment it is needed
-    - regularly review the number, function and sterility of consumable supplies such as single-use circuits, humidifier chambers, suction materials and end tidal CO2 (EtCO2) cuvettes
-    - Assigning an individual staff member to maintain the ventilator(s) is important
-    - a system to review, order, and organize this inventory
-- bed side ventilatro cart
-- Bag-Valve Mask for emergency ventilation
-- Sterile endotracheal tubes
-- Laryngoscope
-- Tube ties
-- ET cuff manometer
-- Replacement tracheostomy tubes/liners
-- Suction supplies -airway and oral separated
-
-### monitoring
-- At minimum, an electrocardiograph (ECG), capnography (EtCO2), and pulse oximeter (SpO2), invasive and/or oscillometric blood pressure should be monitored on any mechanically ventilated patient 
-- monitor driving pressures, transpulmonary pressures, and pressure-volume loops to ensure appropriate positive end-expiratory pressure (PEEP) and prevent excess distending pressure
-- auscultate lung sounds, diminished lung sounds, and changes in heart sounds or rhythm
