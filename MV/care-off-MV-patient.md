@@ -86,18 +86,19 @@ when troubleshooting think
     it can lead to ARDS
 <mark>NOTE: revise ARDS</mark>
 
-3. vap
-- occur after 48-72 hrs of itubation
-
-### Vap bundle
-- sedation interuption
-- oral hygeine (chlorhexidine) 12%
-- 30-45 degree
+### Vap
+- vap occur after 48-72 hrs of itubation
+**bundle**
+- elevate head of bed 30-45 degree
+- daily sedation vacation to assess readiness to wean
+- oral hygeine with or without (chlorhexidine) 12% with or without toothburshing
+- hand hygeine prior to touching any ventrilator tubing or patient mouth
 - subglotic aspiration
 - cuff pressure maintaince
 - pressure ulcer prophylaxis (prevent aspiration of acid)
-
+- DVT propylaxis
 prevent tube obstruction
+
 
 4. Cardio compormis
 - hight PPV -> compress heart -> decrease CO, and venous return, decrease BP and pulmonary edema
@@ -129,3 +130,23 @@ oral suction as needed
 
 
 ----
+
+### preparation (out of book)
+- assessment of MV equipments and supplies
+    - must be ready in the moment it is needed
+    - regularly review the number, function and sterility of consumable supplies such as single-use circuits, humidifier chambers, suction materials and end tidal CO2 (EtCO2) cuvettes
+    - Assigning an individual staff member to maintain the ventilator(s) is important
+    - a system to review, order, and organize this inventory
+- bed side ventilatro cart
+- Bag-Valve Mask for emergency ventilation
+- Sterile endotracheal tubes
+- Laryngoscope
+- Tube ties
+- ET cuff manometer
+- Replacement tracheostomy tubes/liners
+- Suction supplies -airway and oral separated
+
+### monitoring
+- At minimum, an electrocardiograph (ECG), capnography (EtCO2), and pulse oximeter (SpO2), invasive and/or oscillometric blood pressure should be monitored on any mechanically ventilated patient 
+- monitor driving pressures, transpulmonary pressures, and pressure-volume loops to ensure appropriate positive end-expiratory pressure (PEEP) and prevent excess distending pressure
+- auscultate lung sounds, diminished lung sounds, and changes in heart sounds or rhythm
