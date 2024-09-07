@@ -23,7 +23,7 @@ v/s esp. pulse and BP, LOC fluctuate -> may be hypoxic -> do suction
 positioning unless contraindicated, air matress, moisture the skin using creams
 - **sleep promotion**, decrease interuption of sleep for interventions
 - **communication** board contains common ADLS tasks so patinet can point to it e:g patient points at positioning photo on the board indicating that he wants you to put him on that position
--**pain management**: continuous assessment using NON verbal pain scale, consider his complaint and consult doctor for analgesics
+- **pain management**: continuous assessment using NON verbal pain scale, consider his complaint and consult doctor for analgesics
 > [!IMPORTANT]
 > chest pain can hinder patient from breathing normally
 - **family care**: teaching about MV, weaning and it's consequences
@@ -41,49 +41,52 @@ positioning unless contraindicated, air matress, moisture the skin using creams
 1. call for help
 2. disconnect patient from MV
 3. hyperventilation using 100% by MRB, if patient is easily ventilated and o2 sat is going back up to normal then usually the problem is in the machine, if pateint is still uncomfy consithink that it may be a patient problem not machine
-- patency of tube: is it obstructed? does the suction catheter is inserted to the end ?
-- does ABG interpretation indicates other problem?
-- X-ray -> can indicates pnuemothorax or tension ....
+4. patency of tube: is it obstructed? does the suction catheter is inserted to the end ?
+5. does ABG interpretation indicates other problem?
+6. X-ray -> can indicates pnuemothorax or tension ....
 
 # vent alarms
 
 1. ### MV inoperative
 - ventilator is not woking
-**action**: manually ventilate patient untill new ventilator is set up or some one is trying to fix the broken vent
+
+    **action**: manually ventilate patient untill new ventilator is set up or some one is trying to fix the broken vent
 
 2. ### low pressure alarm, low PEEP/CPAP , low exhaled volume
 - patient is leaking some inspired air
 
-**assess all of the following**
-- something is disconnected ?
-- airflow is inadequate?
-- ETT cuff leak? 
+    **assess all of the following**
 
-**action**: manually ventialte patient untill leaking is resolved
+        - is something disconnected ?
+        - airflow is inadequate?
+        - ETT cuff leak? 
+
+    **action**: manually ventialte patient untill leaking is resolved
 
 3. ### high pressure alarm
 - PIP reached 
 - something is obstructed
 
-**assess the following**
-- secretions in tube ? -> suction
-- bitting tube ? -> OPA may be neccessary
-- water accumulate in circuit ? -> drain the water on a basket
-- decrese lung compliance e:g ARDS and pulmonary edema? -> use high PEEP and monitor it's complicatin e:g hypotension
-- kinked tubes ? -> fix it
+    **assess the following**
+
+        - secretions in tube ? -> suction
+        - bitting tube ? -> OPA may be neccessary
+        - water accumulate in circuit ? -> drain the water on a basket
+        - decrese lung compliance e:g ARDS and pulmonary edema? -> use high PEEP and monitor it's complicatin e:g hypotension
+        - kinked tubes ? -> fix it
 
 4. ### apnea alarm
 - occurs in spantaneous modes e:g cpap
 - patient doesn't take breating spantaneously
 
-**action**: encourage pateint to breath or give single breath, rate may should be increased
+    **action**: encourage pateint to breath or give single breath, rate may should be increased
 
 5. ### increased minute or tidal volume
 - patient is breating more spantaneously breathing
 - or may be due to hypoxia
 - or increased lung compliance (patient is getting better)
 
-**action:** check RR and evaluate ABG, ETCO2 and patient improvement
+    **action:** check RR and evaluate ABG, ETCO2 and patient improvement
 
 > [!NOTE]
 > ETCO2 (End-tidal carbon dioxide) is the level of carbon dioxide that is released at the end of an exhaled breath 
@@ -97,7 +100,7 @@ positioning unless contraindicated, air matress, moisture the skin using creams
 - may be due to hypoxia or hypercarbia
 - increased metabolic demand (catabolc state, stress, pain, healing)
 
-**action**: obtain ABG and interprate, check RR and ETCO2
+    **action**: obtain ABG and interprate, check RR and ETCO2
 
 ### complicatoin of MV
 
@@ -121,7 +124,9 @@ positioning unless contraindicated, air matress, moisture the skin using creams
 3. ### Vap
 - due to colonization of the oropharynx
 - vap occur after 48-72 hrs of itubation
+
 **bundle**
+
 - elevate head of bed 30-45 degree
 - daily sedation vacation to assess readiness to wean
 - oral hygeine with or without (chlorhexidine) 12% Q6hrs with or without toothburshing Q12hrs
@@ -134,11 +139,11 @@ prevent tube obstruction
 
 4. ### Cardio compormis
 
-1. high PPV -> increase intrathoracic pressure -> compress the heart -> decrease venous return and preload -> decrease CO -> **decrease BP** and backward reflux of fluids -> **pulmonary edema**
-2. impaired cerebral venous return -> **increase ICP** due to backward pressure
-3. **hepatic and renal dysfunction**
-- decrease venous return -> backward flow of blood to liver -> hepatomegaly and impaired liver function
-- high PPV -> cardiac compression and decrease blood flow to these organs 
+    1. high PPV -> increase intrathoracic pressure -> compress the heart -> decrease venous return and preload -> decrease CO -> **decrease BP** and backward reflux of fluids -> **pulmonary edema**
+    2. impaired cerebral venous return -> **increase ICP** due to backward pressure
+    3. **hepatic and renal dysfunction**
+        - decrease venous return -> backward flow of blood to liver -> hepatomegaly and impaired liver function
+        - high PPV -> cardiac compression and decrease blood flow to these organs 
 
 5. ### GIT 
 
