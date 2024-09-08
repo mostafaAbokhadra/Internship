@@ -12,7 +12,9 @@ patients who is expected to be unable to meet his nutritional requirements orall
 
 > [!IMPORTANT]
 > **absolute Contraindication for feeding:**
+
 > shocked patient -> so assess blood pressure before feeding
+
 > intestinal ischemia and obstruction
 
 **relative contraindications:**
@@ -31,8 +33,11 @@ patients who is expected to be unable to meet his nutritional requirements orall
 
 > [!NOTE]
 > feeding tubes that made of polyvinyl chloride must be changed every <mark>2 weeks</mark>
+
 > tube size must be between 12 - 14, small size is more comfy to patients and less likely to produce sinusitis but is more susceptible to clogging
+
 > if you will only do lavage to the patient, you can use bigger size
+
 > if you will use silcon or rubber tube (which is preferred over polyvinyl) you can use <mark>stylets</mark> to harden the tube so you can insert it easily or put it inside the freezer
 
 ### Types of feeding
