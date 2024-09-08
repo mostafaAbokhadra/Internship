@@ -11,9 +11,9 @@ for patients who can't eat orally maybe due to impaired gag reflexes, weak jaw m
 patients who is expected to be unable to meet his nutritional requirements orally or increase in metabolic demands e:g burns or trauma
 
 > [!IMPORTANT]
-> **absolute Contraindication for feeding:**\
-> shocked patient -> so assess blood pressure before feeding\
-> intestinal ischemia and obstruction
+> **absolute Contraindication for feeding:**
+> 1. shocked patient -> so assess blood pressure before feeding
+> 2. intestinal ischemia and obstruction
 
 **relative contraindications:**
 
