@@ -53,7 +53,7 @@ Other causes include medications, infectious diseases, and metabolic causes such
 - continuous feeding is recommended over bolus feeding decrease residuals and vomiting compared with continuous infusion
 - parentral nutrition is indicated when patients cannot tolerate EN. Some patients develop intestinal failure type I or II from systemic or local complications such as severe ileus and duodenal obstruction from pancreatic edema or pseudocyst
 
-![photo](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7211526/figure/F1/)
+![photo](./map.png)
 
 **Conclusion**
 

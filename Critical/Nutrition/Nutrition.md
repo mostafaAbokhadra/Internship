@@ -25,4 +25,3 @@ patients who is expected to be unable to meet his nutritional requirements orall
 
 > [!NOTE]
 > all these relative contraindications can be resolved then we will initiate Enternal feeding
-
