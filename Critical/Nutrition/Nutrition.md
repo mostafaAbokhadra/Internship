@@ -73,7 +73,10 @@
 
 - **Bolus feeding**: only with intact gag reflex and normal gastric function, it's when you give for example 200 ml of juice each 2 hours over 5 - 20 minutes by gravity
 
-- **Intermittent feeding**: when patients can't tolerate Bolus feeding (e:g vomiting, high GRV) we give feeding in a way that is continously delivering small amount of feeding over a period of time for example: 200 ml over 30 min every 4 hours. you prepare the feeding and put it in a bag (as NS fluid bag for example) and through some device that is similar to the iv set you conncet the feeding bag to the Gastric tube <span style="color: red">(بنوصل فال نازو جاستريك تيوب الله يكرمك مش فالكانولا ولا السنتر) </span> to deliver the feeding over the preset period of time
+- **Intermittent feeding**: when patients can't tolerate Bolus feeding (e:g vomiting, high GRV) we give feeding in a way that is continously delivering small amount of feeding over a period of time for example: 200 ml over 30 min every 4 hours. you prepare the feeding and put it in a bag (as NS fluid bag for example) and through some device that is similar to the iv set you conncet the feeding bag to the Gastric tube to deliver the feeding over the preset period of time
+
+> [!Caution]
+> (بنوصل فال نازو جاستريك تيوب الله يكرمك مش فالكانولا ولا السنتر)
 
 - **continuous feeding**: it is like intermittent but instead of over 30 min to 1 hour, it's given <mark>over 24 hours</mark>
 
@@ -98,13 +101,13 @@
 
 فتلاقي مثلا 400 مل فتفتكر ان كده عالي ومينفعش تدي فيدينج بس فعليا في 600 مل راحوا الامعاد فالدنيا حلوه والراجل بيهضم اعطيه الفيدينج يعطيك العافيه
 
-> [!IMPORTANT]
+> [!Tip]
 > - recent studies have shown that even when patient is in a shock state, give him trophic feeding(small amount of simple sugar e:g 50 ml / hour) just to reserve normal flora and gut function
 > - don't hold feeding if GRV is high for the first time, give feeding as usual and when you reassess after 4 hours to give another feeding if still high hold feeding 
 > - put patient on right side for 15 - 20 min can help decrease GRV
 > - patient on continuous infusion -> decrease the rate as the feeding go directly to the duodenum
-> swith to more dense formula using continuous feeding (low amount high calorie) for patient who don't tolerate feeding to ensure adequate calories intake
-> avoid constipation
+> - swith to more dense formula using continuous feeding (low amount high calorie) for patient who don't tolerate feeding to ensure adequate calories intake
+> - avoid constipation
 
 ### Nursing consideration:-
 
