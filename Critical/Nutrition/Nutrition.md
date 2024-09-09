@@ -31,13 +31,13 @@
 
 3. ### assess situation require you to hold feeding
 
-1. diagnostic procedures that require fasting (NPO) e:g US, surgery, tracheostomy, tests, Transportation
+- diagnostic procedures that require fasting (NPO) e:g US, surgery, tracheostomy, tests, Transportation
 (advocate the patient right to perfom the procdure at time so he can return back to eating again)
-2. over use of sedation (increase GRV due to decrease in gastric motility) -> daily sedation interruption
-3. supine patient (Never feed a patient in a supine position)
-4. hemodialysis -> resume feeding after session
-5. shocked patient -> resume feeding after stabilizing blood pressure
-6. GI intolerance (hight GRV, vomiting, bloating) (consult doctor for use of prokinetics)
+- over use of sedation (increase GRV due to decrease in gastric motility) -> daily sedation interruption
+- supine patient (Never feed a patient in a supine position)
+- hemodialysis -> resume feeding after session
+- shocked patient -> resume feeding after stabilizing blood pressure
+- GI intolerance (hight GRV, vomiting, bloating) (consult doctor for use of prokinetics)
 
 ### 4. **assess tube and method**
 
@@ -74,8 +74,8 @@
 - **Bolus feeding**: only with intact gag reflex and normal gastric function, it's when you give for example 200 ml of juice each 2 hours over 5 - 20 minutes by gravity
 
 - **Intermittent feeding**: when patients can't tolerate Bolus feeding (e:g vomiting, high GRV) we give feeding in a way that is continously delivering small amount of feeding over a period of time for example: 200 ml over 30 min every 4 hours. you prepare the feeding and put it in a bag (as NS fluid bag for example) and through some device that is similar to the iv set you conncet the feeding bag to the Gastric tube 
-> [!IMPORTANT]
-> (بنوصل فال نازو جاستريك تيوب الله يكرمك مش فالكانولا ولا السنتر) 
+    > [!IMPORTANT]
+    > (بنوصل فال نازو جاستريك تيوب الله يكرمك مش فالكانولا ولا السنتر) 
 to deliver the feeding over the preset period of time
 
 - **continuous feeding**: it is like intermittent but instead of over 30 min to 1 hour, it's given <mark>over 24 hours</mark>
@@ -95,7 +95,7 @@ to deliver the feeding over the preset period of time
 
 ف عشان كده الاكل اللي بناكله بيقعد تقريبا ساعه ونص ساعتين على حسب كثافته اللي هو تقله يعني اكيد اكل مسبك مليان دهون واملاح هيطول عن اكل بسيط صحي مسلوق مثلا
 
-غير الاكل اللي انت بتاكله في تقريبا 188 مل عصاره هاضمه بتتفرز من المعده كل ساعه
+ في تقريبا 188 مل عصاره هاضمه بتتفرز من المعده كل ساعه
 
 يعني لما تدي فيدينج كل ساعتين تقريبا هيبقى فيه 188 + 188 مل اولريدي موجودين فالمعده عصاره هاضمه + ال 200 مل اللي هتديهم كده 600 مل تيجي بعد ساعتين عايز تدي فيدينج تاني هيكون المفروض كده وصلنا 1000 مل سوائل فالبطن ف تسحب عشان تعمل تست لل GRV  
 
@@ -125,7 +125,9 @@ to deliver the feeding over the preset period of time
 > [!NOTE]
 > - There is other indications to crash the tablets before administration, one of them for sure is for unconscious patient. other indications inclued patient who is conscious but has difficulty swallowing(dysphagia), age related sarcopenia (loss of muscles strength), stroke, parkinsonism, dementia, rheumatic diseases, respiratory compormise,, tumors involving respiratory and upper digestive tracts , some medications 
 
-> [!IMPORTANT] Do Not Crush List
+> [!IMPORTANT]
+> Do Not Crush List
+
 - developed by Institute for Safe Medication Practice
 - these medication shouldn't be crushed
 
@@ -184,3 +186,5 @@ Always consult a pharmacist or refer to specific guidelines like the ISMP "Do No
 
 using Vap bundle, continuous feeding, post pyloric fedding tube(duodenal and jejunal tubes or stoma), assess GRV, give prophylactic PPI to decreas gastric acidity, prokinetics like metoclopramide, dompridone, erythromycin
 
+> [!NOTE]
+> read the procedure check list pdf in the same folder here
