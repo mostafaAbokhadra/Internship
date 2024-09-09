@@ -73,7 +73,7 @@
 
 - **Bolus feeding**: only with intact gag reflex and normal gastric function, it's when you give for example 200 ml of juice each 2 hours over 5 - 20 minutes by gravity
 
-- **Intermittent feeding**: when patients can't tolerate Bolus feeding (e:g vomiting, high GRV) we give feeding in a way that is continously delivering small amount of feeding over a period of time for example: 200 ml over 30 min every 4 hours. you prepare the feeding and put it in a bag (as NS fluid bag for example) and through some device that is similar to the iv set you conncet the feeding bag to the Gastric tube <span style="color: red;">(بنوصل فال نازو جاستريك تيوب الله يكرمك مش فالكانولا ولا السنتر) </span> to deliver the feeding over the preset period of time
+- **Intermittent feeding**: when patients can't tolerate Bolus feeding (e:g vomiting, high GRV) we give feeding in a way that is continously delivering small amount of feeding over a period of time for example: 200 ml over 30 min every 4 hours. you prepare the feeding and put it in a bag (as NS fluid bag for example) and through some device that is similar to the iv set you conncet the feeding bag to the Gastric tube <span style="color: red">(بنوصل فال نازو جاستريك تيوب الله يكرمك مش فالكانولا ولا السنتر) </span> to deliver the feeding over the preset period of time
 
 - **continuous feeding**: it is like intermittent but instead of over 30 min to 1 hour, it's given <mark>over 24 hours</mark>
 
