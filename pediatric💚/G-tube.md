@@ -1,15 +1,18 @@
 ### Gastrostomy Tube (G-Tube)
 خلي بالك دي غير ال colostomy اللي احنا عارفينها وغير ال NGT اللي احنا عارفينها
+
 ال colostomy كان الغرض منها remove stool mainly
+
 انما ال gastrostomy الغرض منها feeding mainly
+
 بندخل tube من gastrostomy اللي احنا بنعملها لحد المعده !
+
 ايوا بالظبط بنخرم المعده وبنثبت tube فالمعده
 
 ![photo](https://pedsurg.ucsf.edu/sites/default/files/umbraco/media/85846/main_img.gif)
 
-عشان تشوف بالظبط العمليه الصغيره دي بتتعمل ازي اتفرج عالفيديو الصغير ده ب x2
+عشان تشوف بالظبط العمليه الصغيره دي بتتعمل ازي اتفرج عالفيديو الصغير [ده](https://youtu.be/atQGkK0zW2s?si=H7EnCxG2-7DmN8MB) ب x2
 
-watch [this](https://youtu.be/atQGkK0zW2s?si=H7EnCxG2-7DmN8MB)
 
 ### **الفرق ما بين الاتنين سريعا كده :**
 
