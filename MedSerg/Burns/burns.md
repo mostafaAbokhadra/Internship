@@ -43,34 +43,26 @@
 
 # pathophysiology
 
-burn -> increase histamine -> increase capillary permeability -> loss of plasma -> hypovolemic shock -> decrease blood Pressure
+- burn -> increase histamine -> increase capillary permeability -> loss of plasma -> hypovolemic shock -> decrease blood Pressure
+- reduced CO -> thready pulse and hypotension
+- sympathetic stimulation -> vasoconstriction -> cold clammy pale skin
+- vasoconstriction -> hypoxia -> anaerobic respiration -> lactic acid production -> metabolic acidosis -> air hunger (increase respiration) + increase lactic acid
+- face and neck burn -> inhaled hot air and a lot of carbon monoxide -> laryngeal burn and injury -> laryngeal edema -> mechanical obstruction of the upper air way
 
-reduced CO -> thready pulse and hypotension
-
-sympathetic stimulation -> vasoconstriction -> cold clammy pale skin
-
-vasoconstriction -> hypoxia -> anaerobic respiration -> lactic acid production -> metabolic acidosis -> air hunger (increase respiration) + increase lactic acid
-
-face and neck burn -> inhaled hot air and a lot of carbon monoxide -> laryngeal burn and injury -> laryngeal edema -> mechanical obstruction of the upper air way
 > [!NOTE]
 > you may not be able to naso or oro intubate such a patient so you do tracheostomy instead
 
-decrease potassium -> paralytic ileus 
-
-high histamine and high stress situation -> increase HCL -> gastric and duodenal erosion (curling's ulcer)
-
-impaired skin integrity -> high risk for infection
-
-impaired thermoregulation -> hypo or hyperthermia
+- decrease potassium -> paralytic ileus 
+- high histamine and high stress situation -> increase HCL -> gastric and duodenal erosion (curling's ulcer)
+- impaired skin integrity -> high risk for infection
+- impaired thermoregulation -> hypo or hyperthermia
  
 ### local effect  pathophysiology
-
-when: < 25% of TBSA so 1st and 2nd degree cause histamine release -> edema and hypovolemia
+- when: < 25% of TBSA so 1st and 2nd degree cause histamine release -> edema and hypovolemia
 
 ### systemic effect pathophysiology
-
-when: > 25% of TBSA, it can cause multi organ failure if not treated within 48 hrs,  as a compensation renin angiotensinogen system cause release of aldosterone and ADH leading to water and salt retention, cold clammy skin due to peripheral vasoconstriction, decrease UO, hemoconcentration high HCT and HB 
-Hyponatremia or hyperkalemia due to E+_ imbalance and fluids shift
+- when: > 25% of TBSA, it can cause multi organ failure if not treated within 48 hrs,  as a compensation renin angiotensinogen system cause release of aldosterone and ADH leading to water and salt retention, cold clammy skin due to peripheral vasoconstriction, decrease UO, hemoconcentration high HCT and HB 
+- Hyponatremia or hyperkalemia due to Electrolytes imbalance and fluids shift
 
 
 ## Nursing
@@ -78,7 +70,7 @@ Hyponatremia or hyperkalemia due to E+_ imbalance and fluids shift
 	- move patient from fire source
 	- if the patient him self catch fire, roll him in the ground without covering him first with blanket
 	- rinse chemical
-2. emergency 24-48hrs (ABCD)
+2. emergency phase 24-48hrs (ABCD)
 	- remove clothes and cover him with clean linen
 	- replace fluids
 		- use consensus formula
@@ -101,11 +93,12 @@ Hyponatremia or hyperkalemia due to E+_ imbalance and fluids shift
 	- اول 8 ساعات 833ml -> ب( 416.5 colloid) ( 416.5 crystalloid)
 	- تاني 8 ساعات 833ml -> ب( 416.5 colloid) ( 416.5 crystalloid)
 	- تالت 8 ساعات 833ml -> ب( 416.5 colloid) ( 416.5 crystalloid)
-2-acute phase
-	healing and diet
-	wound cleaning (hydro Therapy (shower)), and dressing
-	prevent wound infection, PPE
-	wound debridement
-	prevent joint flexion and do ROM to prevent contraction, use splints to fix the joint in the atomical position e:g neck collar
-	fasciotomy to prevent edema compartement syndromd
-3-rehabilitative phase
+2. acute phase
+	- healing and diet
+	- wound cleaning (hydro Therapy (shower)), and dressing
+	- prevent wound infection, PPE
+	- wound debridement
+	- prevent joint flexion and do ROM to prevent contraction
+	- use splints to fix the joint in the atomical position e:g neck collar
+	- fasciotomy to prevent edema compartement syndrome
+3. rehabilitative phase
