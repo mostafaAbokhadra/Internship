@@ -48,7 +48,7 @@
 	- initiate NS before blood
 	- start slowly no faster than 20 drop/min for first 15 min and closely monitor the patient
 	- adjust flow rate after the 15 minutes if no reaction happened:
-	> [!NOTE]
+	- >[!NOTE]
 	> flow rate = `amount * drop factor (10) * time in minutes`
 	- **monitor reaction signs**:
 		- itching, hives, swelling, dyspnea, fever, headache, flank pain, chills, if happend do:
