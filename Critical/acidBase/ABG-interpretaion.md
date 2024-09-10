@@ -14,7 +14,7 @@ can exceed 100 if in high o2 concentration
 can't exceed 100%
 
 > [!NOTE]
-> ARDS because of high fluids in the alveoli -> refractory hypoxemia -> even when given high amount of o2 -> so increase PEEP and decrease tidal volume
+> in ARDS because of the high amount of fluids in the alveoli -> refractory hypoxemia even when you give high amount of oxygent -> so <mark>increase PEEP to expel fluids from alveoli and decrease tidal volume</mark>
 
 ### pathopysiology
 

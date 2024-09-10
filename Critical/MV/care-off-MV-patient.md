@@ -64,7 +64,7 @@ positioning unless contraindicated, air matress, moisture the skin using creams
     **action**: manually ventialte patient untill leaking is resolved
 
 3. ### high pressure alarm
-- PIP reached 
+- PIP reached limits
 - something is obstructed
 
     **assess the following**
