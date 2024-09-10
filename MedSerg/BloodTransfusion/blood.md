@@ -60,12 +60,12 @@
 	- notify physician
 - **dispose equipment and hand rub**
 - **documentation**:
-- type and volume and infusion rate
-- date and time of initiation and completion
-- any administered medications
-- vascular access device used (e:g r.t cannula)
-- v/s before initiation and after 15 min and after 2 hours and at the end
-- response or any adverse reaction
+	- type and volume and infusion rate
+	- date and time of initiation and completion
+	- any administered medications
+	- vascular access device used (e:g r.t cannula)
+	- v/s before initiation and after 15 min and after 2 hours and at the end
+	- response or any adverse reaction
 **example**\
 1 unit of whole blood through r.t peripheral line 16drop/min , v/s before ....., v/s after 15 min ... , v/s after 2 hrs, v/s at the end, no reaction occur
 
@@ -88,7 +88,7 @@
 
 2. **Febrile reaction**
 - fever within 2hrs after initiation, chills, headache and malaise
-- **action**\
+- **action**
 	- stop transfusion immediately and notify physician
 	- maintain line and continue NS only
 	- manage fever by paracetamol and continue transfusion according to patient order
@@ -99,9 +99,9 @@
 - stop transfusion, give antihistamine (e:g ampule avil im) for mild and may continue transfusion according to physician order, if severe give epinephrine and steroids(dexamethasone)
 
 4. **delayed hemolysis** (health teaching)
-	1. within 3-10 days
-	2. fever, anemia, high bilirubin and jaundice
-	3. mild and require no further intervention
+	- within 3-10 days
+	- fever, anemia, high bilirubin and jaundice
+	- mild and require no further intervention
 	
 5. **transfusion transmitted infection**
 - prevent by accutate virology test	
