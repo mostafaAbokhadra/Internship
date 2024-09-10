@@ -1,5 +1,4 @@
 ### tube suctioning
-watch [this](https://youtu.be/IftM_1TNaWE?si=OBFEDSy30bO__ALg)
 
 ### indications
 - presence of secretion in tube or in lungs (crackels)
@@ -54,3 +53,8 @@ watch [this](https://youtu.be/IftM_1TNaWE?si=OBFEDSy30bO__ALg)
 - characteristics of secretions (amount, color, consistency, odor)
 - v/s before, during and after procedure
 - response and any adverse reaction
+
+watch [this](https://youtu.be/IftM_1TNaWE?si=OBFEDSy30bO__ALg)
+
+> [!NOTE]
+> it's an old reference 8 years ago
