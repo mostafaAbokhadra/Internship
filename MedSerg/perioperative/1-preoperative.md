@@ -73,11 +73,11 @@ e:g <mark>HR, Blood pressure, ECG, etc..</mark>
 6. **endocrine function**
     - BGL before, during and after surgery
 
-    - **some examples**
+    **some examples**
 
-    - use of <mark>steroids<mark> ? -> risk for adrenal insufficiency which is when adrenal galnds don't make enough cortisol(addison's disease)
+    - use of <mark>steroids</mark> ? -> risk for adrenal insufficiency which is when adrenal galnds don't make enough cortisol(addison's disease)
     - thyroid function, if hyperthyrodism ? -> p.t at risk for thyrotoxicosis
-    - if hypotyrodism -> respiratory depression
+    - if hypotyrodism -> risk for respiratory depression
 
 7. **history of medication used**
 - OTC, blood Thinner (e:g heparin, warfarin), steroids, etc..
