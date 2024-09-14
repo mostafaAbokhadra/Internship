@@ -34,8 +34,8 @@
 
 ### pre-operative Teaching
 1. assess patient learnig style and use different methods of teaching according to the desired outcome
-2. breathing exercise, coughing excercise and incentive spirometer (respiration exercise)
-3. early manipulation (circulation exercise e:g <mark>ankle flexion, ankle circular movement, press knee on bed</mark>) within <mark> 12 hours </mark> or at the same surgery day <mark>(day zero)</mark>
+2. breathing exercise, coughing excercise and incentive spirometer (**respiration exercise**)
+3. early manipulation (**circulation exercise** e:g <mark>ankle flexion, ankle circular movement, press knee on bed</mark>) within <mark> 12 hours </mark> or at the same surgery day <mark>(day zero)</mark>
 > [!IMPORTANT]
 > if patient needs to cough or going to do couging exercise he should support the surgical wound with his arm or a rolle towel or a pillow
 
@@ -47,11 +47,12 @@
 
 ![exercises](./exercises.png)
 
-لو عايز تعرف التمارين دي بتتعمل ازاي اتفرج عالفيديو الصغير [ده](https://youtu.be/flIV8c38zDE?si=tNzERhQSeVwu70Ih)
-4. pain management
+##### لو عايز تعرف التمارين دي بتتعمل ازاي اتفرج عالفيديو الصغير [ده](https://youtu.be/flIV8c38zDE?si=tNzERhQSeVwu70Ih)
+
+4. **pain management**
 - instruct patient to use pain rating scale 1-10
 - teach him non-pharma methods
-5. pre-operative fasting period
+5. pre-operative **fasting period**
 - usually from <mark> 6-8</mark> hours
 
 ### immediate pre-operative preparation
