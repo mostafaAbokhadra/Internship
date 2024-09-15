@@ -3,12 +3,12 @@
 ## measuring heart electricity (3 major things)
 
 1. ### **strength of electricity:**
-by the wave length <mark>(amplititude)</mark>
+    by the wave length <mark>(amplititude)</mark>
 
 ![strength of electricity](./imgs/1-waveLength.png)
 
-2. ###**speed of electricity:**
-by the wave duration (how many small boxes), for example narrow wave indicates high speed electricity
+2. ### **speed of electricity:**
+    by the wave duration (how many small boxes), for example narrow wave indicates high speed electricity
 
 ![speed](./imgs/2-waveDuration.png)
 
