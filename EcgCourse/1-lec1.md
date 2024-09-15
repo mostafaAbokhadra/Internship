@@ -9,7 +9,7 @@ by the wave duration (how many small boxes), for example narrow wave indicates h
 
 ![speed](./imgs/2-waveDuration.png)
 
-### 3. **Direction of electricity:**
+3. ### **Direction of electricity:**
     - positive wave if moving away from electrode
     - negative wave if moving towards the electrode
     - equiphasic (+ve = -ve) when perpendicular عمودي on electrodes
