@@ -39,13 +39,13 @@
 > [!IMPORTANT]
 > if patient needs to cough or going to do couging exercise he should support the surgical wound with his arm or a rolle towel or a pillow
 
-![supportedSurgicalWound](./supportWound.png)
+![supportedSurgicalWound](./imgs/supportWound.png)
 
-![support with pillow](./soupportWithPillowpng.png)
+![support with pillow](./imgs/soupportWithPillowpng.png)
 
 خلي بالك احنا لسه ف مرحلة قبل العمليه ف انت بتعلم المريض يعمل  التمارين دي قبل العمليه فهتقله مثلا: بعد العمليه هيكون جرح العمليه في المكان ده ف عايزك تمسك المخده دلوقتي وتتخيل ان في جرح فالمكان ده وتضغط عليه بالراحه بالمخده وانت بتعمل تمارين الكحه
 
-![exercises](./exercises.png)
+![exercises](./imgs/exercises.png)
 
 ##### لو عايز تعرف التمارين دي بتتعمل ازاي اتفرج عالفيديو الصغير [ده](https://youtu.be/flIV8c38zDE?si=tNzERhQSeVwu70Ih)
 
@@ -56,4 +56,32 @@
 - usually from <mark> 6-8</mark> hours
 
 ### immediate pre-operative preparation
-بكره ان شاء الله هتلاقيه جاهز عشان جضيت 💚
+اتاكد من اسم المريض وال identification band فيتله, اتاكد انه NPO 8 ساعات , بص على ال informedConsent اتاكد انها موجود وممضيه, وان كل التحاليل اللازمه و ورق المريض موجود واي اكياس دم اتطلبتله موجوده ف مكانها وسهل توصلها عند اللزوم
+
+قله يدخل الحمام يفضي المثانه, لبسه الجاون, قلها تشيل اي توكه لابسها او بنسه او اي حاجه حاطاها ف شعرها , قلها تلم شعرها ولبسها ال cover head, المفروض من قبل يوم العمليه ده انت قايلها متجيش ب اي makeup او مناكير, لو لابسه طقم اسنان او اي مجوهرات او اي مثبت مثلا في الفم بنشيله
+
+هتحضر ال skin زي ما ال CDC فالتلك ب alcohol-based-solution و هتحلق ب مكنة حلاقه ف اوضة العمليات لو المريض محتاجين نحلقله مكان العمليه, فالمرحله دي برضو ممكن تركبله كانولا 
+
+احيانا ممكن يكون مطلوب enema او GastricTube عشان تفضي المعده , فالاغلب دول هتعملهم وانت بتقول للمريض يروح الحمام يفضي المثانه تكون عامله enema قبلها مثلا بحيث يعمل evacuation of intestine كمان 
+
+بالانجليزي بقى 😂💚
+
+done on the day of surgery
+1. verify identification band, take V/S and assess anxiety, verify NPO, informed consent is signed, all laboratory records exist, blood products is available, have him to empty his bladder and and answer any concerns
+2. make p.t wear hospital gown, have her/him to braid long hair يلم شعره, remove hairPins, nail polish, dentures, jewelry and wear coverhead
+3. complete skin preparation e:g <mark>shaving with electric clipper, alcohol based disinfection</mark>
+4. carry out any special order e:g <mark>enema, GI tube, IV line</mark>
+
+### when to use informed consent
+1. invasive procedures e:g <mark>surgical incisions, endoscope operations, paracentesis, blood transfusion</mark>
+2. procedures requiring sedation and anesthesia
+3. non-surgical procedures e:g <mark>arteriography</mark>
+4. procedures involving radiation
+
+### pre-anesthetic medication
+- administred <mark>half an hour before surgery</mark> or <mark>night before</mark>, it serves different purposes بتخدم احتياجات متنوعه عند المريض , e:g <.<mark>anxiolytics, analgesics, PPIs, sedatives, anti-emetics</mark>
+- **anti-sialagogues** reduces respiratory tract secretions
+
+### who surgical safety checkList
+
+![](./imgs/surgical-safety.png)
