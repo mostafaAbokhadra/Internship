@@ -1,0 +1,1 @@
+1. procoralan (Ivabradine) used to treat sinus tachyCardia

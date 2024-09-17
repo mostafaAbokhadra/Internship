@@ -19,4 +19,158 @@
 
     ![direction](./imgs/3-waveDirection.png)
 
+> [!NOTE] 
+> atriums and ventricles are separated from each other by a fibrous tissue, so atriums electricity can never reach the ventricles and vice versa except <mark>via عبر av-Node</mark>
+
+### ionic distribution inside and outsid cardia cells
+
+- intra-Cardiac-Cellular have high concentration of +ve ions like <mark>postassium</mark> and -ve ions like <mark>Bicarb and proteins</mark>
+- extra-Cardiac-Cellular have high concentration of +ve inons like <mark>sodium and clacuim</mark>and -ve ions like<mark>cloride</mark>
+
+> ![NOTE]
+> - SAN and AVN are depolrized using rapid influx of <mark>Calcuim</mark> so the velocity of conduction in SAN and AVN depends on calcuim
+> - while the cardic cells are depolarized using <mark>sodium<mark> so the velocity of conduction in cardiac muscles depends on sodium
+
+ال san وال avn شغالين لوحدهم من غير اي اثاره لان في قناه اسمها funny channels or (IF Channels) ودي بتسمح ل ايونات الصوديوب انها تدخل وحده وحده تاني الخليه بعد ما ال depolarization يخلص فبدل ما يكون فيه فترة recovery او الفتره اللي هي الخليه مبتقبلش فيها اي stimulants زي فال cardiac cells or any other cells لا ده هنا فال san على طول بعد ال depolarization عن طريق ال funny channels الصوديوم هيدخل وحد وحده لحد ما ي fireUp 
+
+there is the funny channels “if channels” which helps in slow sodium influx, these channels are responsible for the spontaneous depolarization of the SAN, that’s why we call it <mark>Automatic cells</mark>.
+
+> [!TIP]
+> <mark>procoralan(Ivabradine)<mark> is a medicine used for <mark>tachycardia</mark>, As it works on If channels by preventing Na influx leading to decrease SAN firing.
+
+> [!NOTE]
+> electricity moves from -ve to +ve
+
+### Ecg leads
+- the black electrode (on the right foot)(indifferenct electrode) is negligible
+- they are 12 in totoal
+    - 6 coronal leads
+        - 3 bipolar leads
+            - lead 1 between right and left arms
+            - lead 2 right arm to left foot
+            - lead 3 left arm to left foot
+        - 3 unipolar leads (augmented vector leads)
+            - AVR from center of the body to right arm (right arm is the +ve) 
+            - AVL from center of the body to left arm (lfet arm is the +ve) 
+            - AVF from center of the body to left foot (left foot is the +ve)
+    - 6 chest leads (unipolar)
+
+### ECG paper
+- each big square has 5 small squares
+- 300 big square = 1 minute
+- 5 big square = 1 second
+- 1 big square = 0.2 second
+- 1 small sqare = 0.04 second = 1 mm
+- 1 ml volt = 2 big square = 10 small square عمودي (amplititude)
+- samll square = 0.1 ml vlot
+
+**waves:**
+
+![](./imgs/normalEcg.png)
+
+- P wave (atrial depolarization) its width and hight is <mark>not more that 3 small squares (2.5 mm * 2.5 mm)</mark>
+- PR segment (AVN delay) 
+- PR interval (P + PR) <mark>3 - 5 small squares</mark>
+- QRS (ventricular depolarization) <mark>2.5 mm wide, 5 small squares hight in limb leads (lead-1, lead-2, lead-3, AVR, AVL, AVF) or 10 small squares hight in chest leads</mark>
+- T (ventricular repolarization)
+- ST segment
+- QT interval (from start of Q wave to end of T wave)
+
+**QRS**
+
+qrs wave can be presented with 3 morphologies
+- monophasic (one wave only)
+- biphasic (2 waves)
+- triphasic (3 waves (the whole QRS exists))
+
+اول موجه باصه ل تحت -ve يعني دي دايما ال Q wave, اول موجه باصه ل فوق +ve يعني دي دايما ال R wave, اول موجه باصه لتحت بعد ال R wave دي ال S wave و اول موجه باصه لفوق بعد ال S دي اسمها R` بتتنطق R dash ودي بنلاقيها فال right bundel زي ما هنعرف بعدين
+
+To identify each wave:
+
+عشان تعرف انهي موجه فيهم ال R وانهي موجه ال S  وانهي موجه ال Q اتبع القاعده دي 
+
+- 1st -ve wave = Q
+- 1st +ve wave = R
+- 1st -ve wave after R = S
+- 1st +ve wave after S = R"
+
+![](./imgs/QRSMorphologies.png)
+
+![](./imgs/QRSmorphologies2.png)
+
+**in chest leads**
+- as we move from v1 to v6 2 main things occur (R progression بتطول تدريجيا and S Depression بتقصر تدريجيا)
+
+![](./imgs/normalRwaveProgression.png)
+
+**j-point and TPline**
+
+المسافه مابين ال T وال p اسمها ال TP line او ال TP segment 
+
+ال j point دي نهاية ال S wave 
+
+لما ال j-point تكون اعلى من ال TP line اسمها ST elevation
+
+لما ال j-point تكون تحت ال Tp line اسمها ST depression
+
+![](./imgs/TP-line.png)
+
+
+**Twave**
+
+- T wave is assymetric meaning its tip is closer to its end than its beggining
+- e:i if you tried to divide it in half from its tip it will be Asymmetric
+
+![](./imgs/Twave.png)
+
+- its height is equal to QRS (5 small boxes in limb leads and 10 in chest leads)
+- if T-wave is taller than normal and <mark>symmetric</mark> it is called <mark>hyper-Acute-Twave</mark>
+- if T-wave is taller than normal and <mark>Asymmetrica</mark> it is called <mark>normal variant T-wave</mark>
+
+### Abnormal ECG 
+- when you read ecg paper do the following
+1. Spot diagnosis (in the future when you become expert)
+2. Follow the scheme below to confirm, correct, complete diagnosis
+
+**Scheme: look for**
+
+1. AV block & arrhythmia in <mark>long strip Lead II, V1, V5 <mark>
+> [!NOTE]
+> you can do long strip lead-2 Ecg alone, long strip V1 alone or long strip V5 Ecg alone
+
+2. Atrial enlargement in <mark>Lead II, V1</mark>
+3. BBB in <mark>V1,V2,V5,V6</mark>
+4. Ventricular enlargement in <mark>V1,V2,V5,V6</mark>
+5. Axis & hemiblock in <mark>Limb leads (Lead I, aVF)</mark>
+6. Infarction & ischemia: <mark>Wall to wall</mark>
+7. Miscellaneous
+    - Low voltage
+    - Electrolyte disturbances (hypokalemia)
+    - Drugs (digitalis)
+    - Preexcitation syndrome (WPW)
+    - pericarditis
+
+### Notes about the procedure
+- right side نار و طفيناها
+- left side صحرا وخضرناها 
+- v1 in 4th right ICS
+- v2 in 4th left ICS
+- v4 in midClavicular line (apex)
+- v3 between v2 and v4
+- v5 anterior axillary line
+- v6 mid axillary line
+
+في electrode اسمه V3R و V4R دول مكانهم بيكونوا فنفس مكان V3 و V4 عادي بس فال right side
+
+V7, V8, V9 دول ال posterior leads مكانهم فال posterior axillary line, midscapula and para vertebra مقابل ال anterior leads بالظبط
+
+### leads View of the heart
+
+![](./imgs/leadsView.png)
+
+يعني مثلا عندك ST elevation في AVF, LEAD-2, LEAD3 كده ال inferior wall of the heart in the one affected
+
+### REF
+Dr mohammed salah [ECG part 1](https://youtu.be/52FDq40l8Eg?si=yks0i10lRaVY3BJU)
+
 -----
