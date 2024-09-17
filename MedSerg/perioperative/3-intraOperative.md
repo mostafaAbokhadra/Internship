@@ -31,7 +31,7 @@ surgical light focus on patient, surgical x-ray machine, surgical table (patient
 
 مش هتكون واقفه جمب الجراح مستنياه يطلب اداه معينه لا هي بتتوقع وبتساله وبتديله
 
-هي اللي هتحاقظ على ال sterile field و هتكون متاكده ان محدش يكسره وان الادوات وال supplies كلها موقعتش عالارض مثلا ف لسه محافظه عال sterility بتاعها
+هي اللي هتحافظ على ال sterile field و هتكون متاكده ان محدش يكسره وان الادوات وال supplies كلها موقعتش عالارض مثلا ف لسه محافظه عال sterility بتاعها
 
 هتعد اال instruments and supplies كلها قبل و بعد العمليه
 
@@ -56,9 +56,10 @@ surgical light focus on patient, surgical x-ray machine, surgical table (patient
 ![](./imgs/AnesthesiaChoiseFactors.png)
 
 ### Types of Anesthesia
-1. **local anesthesia**: e:g in <mark> dental surgery, breast biobsy, carpal tunnerl release, suturing wounds</mark>
+1. **local anesthesia**: e:g used in <mark> dental surgery, breast biobsy, carpal tunnerl release, suturing wounds</mark>
+    
     **Examples**
-    - pro<mark>caine</mark> (benzocaine) -> short
+    - pro<mark>caine</mark> (benzocaine) -> short duration
     - lido<mark>caine</mark> -> intermediate
     - Bupiva<mark>caine</mark> -> long 
 
@@ -85,7 +86,7 @@ e:g <mark>spinal and epidural anesthesia</mark>
 - **IV agents**: Barbiturates e:g <mark>amytal, brevital, surital, penthothal</mark> or benzodiazepines e:g <mark>diazepam, larazepam, midazolam, propofol</mark> or short onset and duration Opioids e:g <mark> alfentanil, fentanyl, remifentanil, sufentanil</mark> and longer onset and duration opioids e:g <mark>levorphanol, pethidine, morphine</mark>
 
 > [!NOTE]
-> generl anesthesia goal is to achieve the <mark>4-As</mark> which are <mark>lack of <mark>A</mark>wareness, <mark>A</mark>mnesia, <mark>A</mark>nalgesia and <mark>A</mark>kinesia
+> generl anesthesia goal is to achieve the <mark>4-As</mark> which are lack of <mark>A</mark>wareness, <mark>A</mark>mnesia, <mark>A</mark>nalgesia and <mark>A</mark>kinesia
 
 ### **general anesthesia stages**
 ![](./imgs/anesthesiaStages.png)

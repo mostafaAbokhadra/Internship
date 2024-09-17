@@ -79,7 +79,7 @@ done on the day of surgery
 4. procedures involving radiation
 
 ### pre-anesthetic medication
-- administred <mark>half an hour before surgery</mark> or <mark>night before</mark>, it serves different purposes بتخدم احتياجات متنوعه عند المريض , e:g <.<mark>anxiolytics, analgesics, PPIs, sedatives, anti-emetics</mark>
+- administred <mark>half an hour before surgery</mark> or <mark>night before</mark>, it serves different purposes بتخدم احتياجات متنوعه عند المريض e:g <mark>anxiolytics, analgesics, PPIs, sedatives, anti-emetics</mark>
 - **anti-sialagogues** reduces respiratory tract secretions
 
 ### who surgical safety checkList
