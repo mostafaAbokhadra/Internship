@@ -1,31 +1,33 @@
 ### ventricular enlargment
-- look in lead V1 and V5, V6
+- look in lead <mark>V1</mark> and <mark>V5, V6</mark>
 
 ### Right ventricular enlargment
-- tall Rwave in V1 more that 7 small boxes or R:S ratio more than 1 (meaning Rwave height = Swave height)
+- <mark>tall R-wave in V<sub>1</sub><mark> more that 7 small boxes
+- R:S ratio more than 1 (meaning Rwave height = Swave height) in V<sub>1</sub>
 
 ![](./imgs/RVE.png)
 
 ### left ventricular enlargment
-- V<sub>5/6</sub> Rwave > than 5 large squares (25mm)
+- V<sub>5/6</sub> <mark>R-wave > than 5 large squares (25mm)</mark>
 
 ![](./imgs/V5LVE.png)
 
-- V<sub>5</sub> Rwave + V<sub>1</sub> Swave > 7 large squares (35mm)
+- <mark>V<sub>5</sub> R-wave</mark> and <mark>V<sub>1</sub> S-wave > 7 large squares (35mm)</mark>
 
 ![](./imgs/LVE.png)
 
-- V<sub>5</sub> Rwave + V<sub>2</sub> Swave > 9 small squares (45mm)
-- V<sub>6</sub> Rwave is taller than V<sub>5</sub> Rwave
-- AVL Rwave more than 11 mm in femals or 13 mm in males = 2.2 large boxes
+- V<sub>5</sub> R-wave and V<sub>2</sub> S-wave <mark>> 9 small squares (45mm)</mark>
+- V<sub>6</sub> R-wave is taller than V<sub>5</sub> R-wave
+- <mark>AVL</mark> R-wave <mark>more than 11 mm</mark> in femals or <mark>13 mm</mark> in males = 2.2 large boxes
 
 ![](./imgs/AVL-LVE.png)
 
 > [!NOTE]
 > - enlargment keyword can mean either Hypertrophy or Dilation, in order to specify whether the enlargment is due to hypertrophy or dilation look for the <mark>strain Pattern</mark>, which is defined as <mark>ST depression that is Coved</mark> (hypertrophy)
-- defferentiate with ST depression ischemia
 
 ![](./imgs/strainPattern.png)
+
+**defferentiate with ST depression ischemia**
 
 ![](./imgs/ST-compare.png)
 
