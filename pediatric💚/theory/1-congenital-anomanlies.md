@@ -33,19 +33,19 @@
 
 ## gastrointestinal anomalies
 ### 1. anomalies of mouth
-  1. **cleft Lip**
-    - fissure in upper lip, may be unilateral or bilateral
+1. **cleft Lip**
+  - fissure in upper lip, may be unilateral or bilateral
 
-    ![](./imgs/fissure.png)
+  ![](./imgs/fissure.png)
 
-    ![](./imgs/fissure2.png)
+  ![](./imgs/fissure2.png)
 
-  2. **cleft palate**
-    - incomplete fusion of palatal
-    - in soft or hard palate or both
-    - may have cleft lib also
+2. **cleft palate**
+  - incomplete fusion of palatal
+  - in soft or hard palate or both
+  - may have cleft lib also
 
-    ![](./imgs/cleftPalate.png)
+  ![](./imgs/cleftPalate.png)
 
 ### Nursing
 1. **altered nutrition** <mark>(priority)</mark>
