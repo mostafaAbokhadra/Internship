@@ -8,12 +8,17 @@
 
 ### left ventricular enlargment
 - V<sub>5/6</sub> Rwave > than 5 large squares (25mm)
+
 ![](./imgs/V5LVE.png)
+
 - V<sub>5</sub> Rwave + V<sub>1</sub> Swave > 7 large squares (35mm)
+
 ![](./imgs/LVE.png)
+
 - V<sub>5</sub> Rwave + V<sub>2</sub> Swave > 9 small squares (45mm)
 - V<sub>6</sub> Rwave is taller than V<sub>5</sub> Rwave
 - AVL Rwave more than 11 mm in femals or 13 mm in males = 2.2 large boxes
+
 ![](./imgs/AVL-LVE.png)
 
 > [!NOTE]
