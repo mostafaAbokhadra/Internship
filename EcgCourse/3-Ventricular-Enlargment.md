@@ -59,3 +59,6 @@
         - Aortic Regurge
         - Ventricular Septal Defect
 2. Left Ventricular Failure
+
+### Ref
+Dr mohammed salah [ECG part 2](https://youtu.be/FKHwLrwsG_4?si=p7QC9XIojXwrnfGD)
