@@ -59,7 +59,7 @@
     ![](./imgs/specailSucker2.png)
 
     - gavage feeding lastly if baby can't suck at all when the defect is severe
-2. altered parenting (knowledge deficit)
+2. **altered parenting** (knowledge deficit)
     - help parents to accept child
     - envolve parents in care
     - inform them about diagnosis and operation
@@ -93,6 +93,7 @@
   - fistula is abnormal opening between two passages (here the trachea and esophagus)
     
     **Types**
+
 
     ![](./imgs/TOFdegrees.png)
 
@@ -216,7 +217,7 @@
 #### preOp
 V/S, NPO, IV fluids, semi setting, abdominal girth measure, o2 thearpy, Inputs and Outputs, colonic lavage
 
-## PostOP
+#### PostOP
 general care, colosomy and pouch care, educate parent
 
 ### intussusception
