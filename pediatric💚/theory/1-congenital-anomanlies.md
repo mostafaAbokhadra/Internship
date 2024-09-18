@@ -26,10 +26,10 @@
 - restraint and IV fluids
 - pulmonary hygeine (physiotherapy, positioning)
 - tactile stimulation to reduce pain (massage -> light gentle strokes), skin to skin contact, etc..
-- refelxology technique to reduce pain, it's applying pressure to specific points on the feet, hands, or ears, known as reflex points.
-- connected devices care (طريقته ف اخر الصفحه لو مهتم تعرف)
+- refelxology technique to reduce pain, it's applying pressure to specific points on the feet, hands, or ears, known as reflex points.(طريقته ف اخر الصفحه لو مهتم تعرف)
+- connected devices care
 - monitor signs of complications (skin color, temperature, signs of shock)
-- early manipulatoin for older children, for younger frequent positioning and skin care
+- early manipulation for older children, for younger frequent positioning and skin care
 
 ### gastrointestinal anomoly
 
