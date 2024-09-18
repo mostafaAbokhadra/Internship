@@ -1,4 +1,4 @@
-# Congenital anomoly
+# Congenital anomaly
 
 > [!IMPORTANT]
 > - children have greater metabolic rate than adults -> <mark>need more feeding</mark> and also <mark>heal more quickly</mark>
