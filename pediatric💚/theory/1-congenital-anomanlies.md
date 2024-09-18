@@ -31,17 +31,16 @@
 - monitor signs of complications (skin color, temperature, signs of shock)
 - early manipulation for older children, for younger frequent positioning and skin care
 
-### gastrointestinal anomoly
-
-1. #### anomalies of mouth
-    1. **cleft Lip**
+## gastrointestinal anomalies
+### 1. anomalies of mouth
+  1. **cleft Lip**
     - fissure in upper lip, may be unilateral or bilateral
 
     ![](./imgs/fissure.png)
 
     ![](./imgs/fissure2.png)
 
-    2. **cleft palate**
+  2. **cleft palate**
     - incomplete fusion of palatal
     - in soft or hard palate or both
     - may have cleft lib also
@@ -87,11 +86,11 @@
     - keep incision clean using warm water
     - call doctor if fever > 38.5, bleeding from nose or mouth (pink mucus and saliva are normal), pus from the incision, Signs of dehydration, like no tears when crying, sunken eyes, dry mouth or not urinating enough (at least one wet diaper every six hours), Any redness or severe swelling at the incision site, The incisions open or the stitches are loose.
 
-### anomalies of esophagus
+## anomalies of esophagus
 
-1. **esophageal atresia with tracheo-osophageal-fistual** (TOF) 
-    - esophagus is not complete (don't reach the stomach)
-    - fistula is abnormal opening between two passages (here the trachea and esophagus)
+### 1. **esophageal atresia with tracheo-osophageal-fistual** (TOF) 
+  - esophagus is not complete (don't reach the stomach)
+  - fistula is abnormal opening between two passages (here the trachea and esophagus)
     
     **Types**
 
@@ -142,9 +141,9 @@
 - use pacifier, and gradual oral feeding when doctor order to start
 - health teaching about the above in the home (gastrostomy care, feeding)
 
-### anomalies of stomach and duodenum
+## anomalies of stomach and duodenum
 
-1. **hyperTrophic pyloric stenosis**
+### 1. **hyperTrophic pyloric stenosis**
 
 ![](./imgs/HPS.png)
 
@@ -178,9 +177,9 @@
 - signs of complications (shock, abdominal distension)
 - educate parent about care
 
-### Intestine anomalies
+## Intestine anomalies
 
-1. **hirshsprung's (aganglionic megacolon)**
+### 1. **hirshsprung's (aganglionic megacolon)**
 
 - **manifestation in newborn**
     - failure to pass meconium within 24 hours
