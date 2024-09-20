@@ -110,7 +110,7 @@
     <img src="./imgs/hydrocolloidDressin.webp" width="300px" height="300px">
 
     - pectin-based barrier is put under advesive tape provides effective adhesion for certain appliances and protects neonatal skin from damage caused by tape removal.
-    <img src="./imgs/pectinBarrier.jpeg" width="500px" height="500px">
+    <img src="./imgs/pectinBarrier.jpeg" width="300px" height="300px">
 
 > [!IMPORTANT] 
 > - decrease noise as possible 
