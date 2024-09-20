@@ -11,7 +11,7 @@
 - TSB (total serum bilirubin)<mark>over the 95th percentile</mark>
 
 > [!NOTE]
-> - <mark>acute bilirubin encapholopathy<mark> -> wehn unconjugated bilirubin deposite in brain
+> - <mark>acute bilirubin encapholopathy</mark> -> wehn unconjugated bilirubin deposite in brain
 > - <mark>kernicterus</mark> -> when permanant neurons injury occured, when level > 25mg/dl
 
 ### kernicterus phases
@@ -22,7 +22,7 @@
 ف اعمل continous assessment عشان تلاحظ الاعراض دي 
 
 ### Diagnostic
-- transcutaneous bilirubinOmetry
+- transcutaneous bilirubinometry
 - in developing countries -> blood sample of serum bilirubin level
 
 ### treatment
