@@ -13,24 +13,33 @@
 - **late preterm**: <mark>34 weeks - 36 weeks and 6 days</mark>
 ---
 > [!NOTE]
-> if neonate's weight lies below 10th percentile the neonate weight is <mark>small for gestational age</mark>, if above the 9th percentile weight is <mark>large for gestational </mark>, if lies between 10th and 9th percentile <mark>appropriate for gestational age</mark>
+> if neonate weight's lies below 10th percentile the neonate weight is <mark>small for gestational age</mark>, if above the 9th percentile weight is <mark>large for gestational age </mark>, if lies between 10th and 9th percentile <mark>appropriate for gestational age</mark>
 
 **symmetric IUGR(intra utrine growth retardation)**
-- growth of weight, length, head circumference are all affected and lies below the 10th percentile
+- growth of weight, length, head circumference are all affected(not normal) and lies below the 10th percentile
+
 **Asymmetric IUGR**
 - one of the weight, length or head circumference is normal, and the remaining two lies below the 10th percentile
 
 > [!NOTE]
 > usually the head circumference is the normal parameter
 
-**level-1 facility:** (feeder and grower room) neonate just need feeding and observation and appropriate care
-- for stable late preterm
+---
+
+**level-1 facility:** (feeder and grower room)
+- it is for stable late preterm
+- neonate just need feeding and observation and appropriate care
 
 **level-2 facility**:
-- for moderately ill neonate whose weight is more than 1500 gm and born at more than 32 weeks and have medical condition
+- for moderately ill neonate
+- weight is more than 1500 gm and born at more than 32 weeks
+- have medical condition
 
-**level-3 facility**: complex condition that requires MV and CPR and advanced care and continious assessment and observation
+**level-3 facility**:
+- complex condition
+- requires MV and CPR and advanced care, continious assessment and observation
 
+----
 ### Nursing assessment of neonate
 - appearance, posture, deformities, color
 - V/S, apical pulse
