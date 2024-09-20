@@ -68,20 +68,20 @@
         - **moro reflex**
             - watch[this](https://youtube.com/shorts/svCEWIEqVDg?si=w3_-d3MgXYX4ubgY)
         - **root and sucking reflex**
-            watch [this](https://youtu.be/_Vs7_aHfOy8?si=-e_IPlhMdCN_Jw4h)
+            - watch [this](https://youtu.be/_Vs7_aHfOy8?si=-e_IPlhMdCN_Jw4h)
         - **galant reflex**
             - watch [this](https://youtu.be/Yy9R3pF1rJc?si=EZQLgw0tB47z7N4h)
-            - and [this:)](https://youtu.be/06GHeYs0myA?si=haGW5c4n0HyUPAQL)
+            - and [this :)](https://youtu.be/06GHeYs0myA?si=haGW5c4n0HyUPAQL)
         - **pabiniski**
-            watch [this](https://youtu.be/b2QKXOzD8sA?si=-Q8ZCQgA71EcOPTk)
+            - watch [this](https://youtu.be/b2QKXOzD8sA?si=-Q8ZCQgA71EcOPTk)
 
 > [!NOTE]
 > - it term infants normal temperature is <mark>36.5-37.5</mark>
 > - in preterm <mark>36.8-36.9</mark>
 
 # Nursing for preterm
-- maintain temperature -> icubator or radiant warmer, if none exists just warm him as possible as you can
-- adjust humadity in all <mark>< 31 weeks</mark> preterms at <mark>85%</mark>
+- maintain temperature -> icubator or radiant warmer, if none exists just warm him as you can 
+- adjust incubator humadity in all <mark>< 31 weeks</mark> preterms to <mark>85%</mark>
 - cover his head
 - plastic wraps or bags for extremely preterm
 
@@ -97,19 +97,19 @@
 > - so it's preferable for him than breast feeding until he matures
 
 - gavage feeding:
-- monitor intake and outputs, wight baby daily and maintian hydration
+- monitor intake and outputs, weight baby daily and maintian hydration
 - assess signs of extravasation in cannula sites as baby's tissue is easily damaged
 - electrolyes imbalance and hyper or hypo glycemia may manifest as <mark>alterations in alertness, activity level and behavior, tremors and seizures</mark>
 - assess umbilical or venous catheter patency
 - frequent hand wahsing to prevent infection
 - no alkaline based soap acid mantle is used
-- all skin products alcohol, chlorhexiding, iodine with cautoin and rinsed afterward
+- all skin products alcohol, chlorhexidin, iodine are used with caution and rinsed with water afterward
 - pectin barriers and hydrocolloid is useful
     - hydrocolloid is a long lasting neonatal adhesive that minimizes skin damage.
 
     ![](./imgs/hydrocolloidDressin.webp)
 
-    - put pectin-based barrier put under advesive tape provides effective adhesion for certain appliances and protects neonatal skin from damage caused by tape removal.
+    - pectin-based barrier is put under advesive tape provides effective adhesion for certain appliances and protects neonatal skin from damage caused by tape removal.
 
     ![](./imgs/pectinBarrier.jpeg)
 
