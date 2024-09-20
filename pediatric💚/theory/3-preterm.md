@@ -6,11 +6,12 @@
 - <mark>very low birth weight</mark> < 1500 gm
 - <mark>extremely low birth weight</mark> < 1500 gm
 
+----
 - **Extremely preterm**: <mark>< 28 weeks</mark>
 - **very preterm**: <mark>28 weeks - 31 weeks and 6 days</mark>
 - **moderately preterm**: <mark> 32 - 33 weeks and 6 days</mark>
 - **late preterm**: <mark>34 weeks - 36 weeks and 6 days</mark>
-
+---
 > [!NOTE]
 > if neonate's weight lies below 10th percentile the neonate weight is <mark>small for gestational age</mark>, if above the 9th percentile weight is <mark>large for gestational </mark>, if lies between 10th and 9th percentile <mark>appropriate for gestational age</mark>
 
