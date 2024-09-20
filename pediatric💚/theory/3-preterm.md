@@ -55,7 +55,7 @@
     - bowel sound
     - signs of regurgitation and GRV
     
-    [!NOTE] (regurgitation is when you eructate baby and 5 - 10 cm of milk comes out of the mouth) it differs from vomiting.
+>   [!NOTE] (regurgitation is when you eructate baby and 5 - 10 cm of milk comes out of the mouth) it differs from vomiting.
 
     - presence of abdominal distension?
     - pass mocenium? stool assessment
