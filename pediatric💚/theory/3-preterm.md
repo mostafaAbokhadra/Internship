@@ -66,23 +66,14 @@
     - level of activity
     - **assess reflexes**
         - **moro reflex**
-        <iframe width="560" height="315" src="https://youtube.com/shorts/svCEWIEqVDg?si=w3_-d3MgXYX4ubgY"></iframe>
-
-        https://youtube.com/shorts/svCEWIEqVDg?si=w3_-d3MgXYX4ubgY
-
+            - watch[this](https://youtube.com/shorts/svCEWIEqVDg?si=w3_-d3MgXYX4ubgY)
         - **root and sucking reflex**
-
-        https://youtu.be/_Vs7_aHfOy8?si=-e_IPlhMdCN_Jw4h
-
+            watch [this](https://youtu.be/_Vs7_aHfOy8?si=-e_IPlhMdCN_Jw4h)
         - **galant reflex**
-
-        https://youtu.be/Yy9R3pF1rJc?si=EZQLgw0tB47z7N4h
-
-        https://youtu.be/06GHeYs0myA?si=haGW5c4n0HyUPAQL
-
+            - watch [this](https://youtu.be/Yy9R3pF1rJc?si=EZQLgw0tB47z7N4h)
+            - and [this:)](https://youtu.be/06GHeYs0myA?si=haGW5c4n0HyUPAQL)
         - **pabiniski**
-
-        https://youtu.be/b2QKXOzD8sA?si=-Q8ZCQgA71EcOPTk
+            watch [this](https://youtu.be/b2QKXOzD8sA?si=-Q8ZCQgA71EcOPTk)
 
 > [!NOTE]
 > - it term infants normal temperature is <mark>36.5-37.5</mark>
