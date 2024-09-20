@@ -26,7 +26,7 @@ assess and monitor the following 6 physiological parameter in any acutely or cri
 - **for respiratory**: head on one side, deep breating and couging exercise, spirometer, positioning Q 2-3hours and encourage early manipulation within prescribed limits
 - **for circulation**:
     - **assess mobility**: ability to do leg exercises and to turn self
-    - gradual exercise e:i in bed leg planter and dorsi-flexion, dangling legs, move to chair, gradual ambulation
+    - gradual exercise e:i in bed dorsi-flexion, dangling legs, move to chair, gradual ambulation
     - maintain fluids and electorlytes balance and monitor signs of dehydration or fluid overload, and weight p.t daily
     - elevate legs when sitting and apply elastic stockings
     - encourage oral fluids as soon as 
@@ -41,7 +41,7 @@ assess and monitor the following 6 physiological parameter in any acutely or cri
 3. **kidney function**(intake and output, kidney function)
 
 4. **patient comfort**(pain, gastric Upset, positioning) 
-- <mark>for pain<mark> -> non-pharmacological interventions, remove any secondry cause of pain e:g tight bandages
+- <mark>for pain</mark> -> non-pharmacological interventions, remove any secondry cause of pain e:g tight bandages
 
 > [!TIP]
 > for 48 hours after surgery give patient analgesics around the clock to before pain becomes severs
@@ -55,7 +55,7 @@ assess and monitor the following 6 physiological parameter in any acutely or cri
 
 6. **dressing**: dressing on surgical site assessment without removing the dressing 
 
-بص على ال درسنج اللي على جرح العمليه, لو لقيت في دم كتير ارسم حوالين الدم دابره واعمل اسسمنت تاني شوف الدم طلع بره الدايره ولا لا ممكن تكون علامه للنزيف, مع الضضط القليل والنبض والتنفس العالي
+بص على ال درسنج اللي على جرح العمليه, لو لقيت في دم كتير ارسم حوالين الدم دابره واعمل اسسمنت تاني شوف الدم طلع بره الدايره ولا لا ممكن تكون علامه للنزيف, مع الضغط القليل والنبض والتنفس العالي
 
 مش هتغير الدرسنج, هتحط درسنج تانيه فوق الدرسنج القديمه وهتكلم الدكتور
 
