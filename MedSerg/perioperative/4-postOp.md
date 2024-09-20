@@ -11,6 +11,7 @@
 ### National Early Warning Score (NEWS) (6-items)
 assess and monitor the following 6 physiological parameter in any acutely or critically ill patient
 - V/S(ال 4 كلهم ), O2 saturation and Level of consciousness
+
 ال 6 حجات دول مهمين جدا عشان هيعرفوك  لو الباشنت داخل ف اي complications زي <mark>hemorrhage, shock, sepsis, effects of analgsia and anesthesia</mark>
 
 # Post-OP assessment and Intervention
