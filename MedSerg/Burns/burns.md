@@ -10,7 +10,7 @@
 		- recovery within week
 	2. **superficial partial thickness 2<sup>nd</sup> degree**
 		- epidermal + partial dermis
-		- wound is <mark>moist pink(oozing of plasma)</mark> الجرح رطب عشان البلازما بتتسرب وعشان, <mark>mottled red painful, blisters</mark> او ممكن البليستر تتفرقع
+		- wound is <mark>moist pink(oozing of plasma)</mark> الجرح رطب عشان البلازما بتتسرب, <mark>mottled red painful, blisters</mark> او ممكن البليستر تتفرقع
 		- recovery within 3 weeks
 	3. **deep partial thickness 2<sup>nd</sup> degree**
 		- epidermis and dermis
