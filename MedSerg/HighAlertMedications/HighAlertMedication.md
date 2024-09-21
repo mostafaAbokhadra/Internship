@@ -7,8 +7,8 @@
 3. anesthetic agents مخدر, general, inhaled and IV <mark>(e.g., propofol, ketamine)</mark>
 4. antiarrhythmics, IV <mark>(e.g., lidocaine, amiodarone)</mark>
 > [!NOTE]
-> lidocaine main use is to treat ventricular arrhythmias e:g ventricalr tachycardia and fibrillation
-> monitor ECG for excessive depression in cardiac conductiviy, BP for hypotension
+> - lidocaine main use is to treat ventricular arrhythmias e:g ventricalr tachycardia and fibrillation
+> - monitor ECG for excessive depression in cardiac conductiviy, BP for hypotension
 5. antithrombotic agents (anticoagulants), including <mark>warfarin, low-molecular-weight heparin, IV unfractionated heparin</mark>, Factor Xa inhibitors </mark>(fondaparinux)</mark>, direct thrombin inhibitors <mark>(e.g., argatroban, lepirudin, bivalirudin)</mark>, thrombolytics <mark>(e.g., alteplase, reteplase, tenecteplase)</mark>, and glycoprotein IIb/IIIa inhibitors <mark>(e.g., eptifibatide)</mark>
 6. cardioplegic شلل عضلة القلب solutions 
 7. chemotherapeutic agents, parenteral and oral
@@ -31,14 +31,20 @@
 2. **epoprostenol** (Flolan), IV, it is a vasodilators and platelet-aggregation inhibitors used to treat certain kinds of pulmonary arterial hypertension
 3. **insulin**, subcutaneous and IV
 4. **magnesium sulfate** injection, works as anticonvulsant, treats hypomagnesemia, constipation
-5. **methotrexate** oral, non-oncologic use, it is an anti-metabolite anti folates nhibiting DNA synthesis, most commonly used in chemotherapy and immunosuppressant in auto-immune diseases, and the treatment of rheumatoid arthritis
+5. **methotrexate** oral, non-oncologic use, it is an anti-metabolite anti folates inhibiting DNA synthesis, most commonly used in chemotherapy and immunosuppressant in auto-immune diseases, and the treatment of rheumatoid arthritis
 6. **oxytocin**, IV
 7. **nitroprusside sodium** for injection, used to treat acute hypertension crises, Acute decompensated heart failure, It is a potent vasodilator administered as an IV infusion with intensive monitoring in place
 8. **potassium chloride** for injection concentrate
 9. **potassium phosphates** injection
-10. **promethazine**, IV, it is first-generation antihistamine, it has antidopaminergic, antihistamine, and anticholinergic properties, used to treat Allergic conditions ncluding seasonal allergic rhinitis and allergic conjunctivitis, uncomplicated skin manifestations of urticaria, and angioedema.Promethazine is also indicated as adjunctive therapy to epinephrine for anaphylactic reactions, control nausea and vomiting associated with anesthesia or chemotherapy, Motion sickness: Promethazine can serve as prophylactic therapy for motion sickness; it is most effective when given 30 minutes to 1 hour before the triggering event, and for sedation
-11. **sodium chloride** for injection, **hypertonic** (greater than 0.9% concentration)
-12. **sterile water** for injection, inhalation, and irrigation (excluding pour bottles) in containers of 100 mL or more
+10. **promethazine**, IV
+    - it is first-generation antihistamine
+    - it has antidopaminergic, antihistamine, and anticholinergic properties
+    - used to treat Allergic conditions ncluding seasonal allergic rhinitis and allergic conjunctivitis, uncomplicated skin manifestations of urticaria, and angioedema.
+    - Promethazine is also indicated as adjunctive therapy to epinephrine for anaphylactic reactions
+    - control nausea and vomiting associated with anesthesia or chemotherapy
+    - can serve as prophylactic therapy for motion sickness; it is most effective when given 30 minutes to 1 hour before the triggering event, and for sedation
+12. **sodium chloride** for injection, **hypertonic** (greater than 0.9% concentration)
+13. **sterile water** for injection, inhalation, and irrigation (excluding pour bottles) in containers of 100 mL or more
 
 ### medication and it's potential complications
 
@@ -51,7 +57,7 @@
 3.  **potassium chloride or phosphate** -> mental confusion, muscles weakness, flaccid paralysis, oliguria, hyperkalemia, respiratory distress, hypotension, bradycardia, arrythmia or arrest
 	- the 1st is used to treat k+ deficiency
 	- the 2nd is a phosphate replacement for hypophosphatemia
-4. iv anticoagulants -> uncontrolled hemorrhage
+4. **iv anticoagulants** -> uncontrolled hemorrhage
 
 **all of these complication may occur due to errors in:**
 1. concentration
@@ -71,8 +77,8 @@
 - limit availability in floor stocks
 - make list of all available insulins and high alerts
 - countercheck before administration
-- don't store with insulin with heparin
-- maintain infusion pumps accuracy through periodic checks of of settings
+- don't store insulin with heparin
+- maintain infusion pumps accuracy through periodic maintainance and check settings
 - label to differentiate different type of insulin
 - don't store potassium next to 50% dextrose
 - wight patient for accurate dose of heparin
