@@ -75,7 +75,7 @@
 			- <mark>2-4 ml `*` body weight in kg `*` TSBA</mark>
 			- choose 2 ml for each body weight if only patient is burned, if there is any associated vomiting or - diarrhea consider increasing to 3 or 4 ml
 ### how to replace fluids:
-
+![](./burnsReplacement.png)
  
 2. **acute phase**
 	- healing and diet
