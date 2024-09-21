@@ -166,11 +166,10 @@ prevent tube obstruction
 <mark>increase secretion in airway, bite block, kinnked tubes</mark>
 
 4. how to prevent VAP?
-<mark>12% chlorohexidine gluconate (hexitol)</mark>
+<mark>12% chlorohexidine gluconate (hexitol) and oral suction as needed</mark>
 
 > [!NOTE]
 > for skin care use concentration of 2%
-oral suction as needed
 
 5. MV patient should avoid diet high in ?
 <mark>carbs</mark>
