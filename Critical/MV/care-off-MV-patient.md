@@ -5,9 +5,10 @@
 ### initial safety checks
 - observe patient, tube, MV and circuit
 - observe chest rising and falling, auscultate air entry, ensure fixation of tube, observe patient color e:g flushed or cyanosed
-v/s esp. pulse and BP, LOC fluctuate -> may be hypoxic -> do suction
+- v/s esp. pulse and BP
+- LOC fluctuate -> may be hypoxic -> do suction
 - fast access to MRB, suction unit and catheters, intubation equipments (in case of exutabation occur esp. in risky patient e:g agitated)
-- adjust MV setting e:i alarm limits e:g when HR exceeds 110 the alarm will shout
+- adjust MV setting e:i alarm limits e:g when HR exceeds 110 the alarm shouts
 
 ### Routine care of MV patients
 - patient and family
