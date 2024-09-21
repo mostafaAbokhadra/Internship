@@ -139,10 +139,9 @@ positioning unless contraindicated, air matress, moisture the skin using creams
 prevent tube obstruction
 
 4. ### Cardio compormis
-
-    1. high PPV -> increase intrathoracic pressure -> compress the heart -> decrease venous return and preload -> decrease CO -> **decrease BP** and backward reflux of fluids -> **pulmonary edema**
-    2. impaired cerebral venous return -> **increase ICP** due to backward pressure
-    3. **hepatic and renal dysfunction**
+    - high PPV -> increase intrathoracic pressure -> compress the heart -> decrease venous return and preload -> decrease CO -> **decrease BP** and backward reflux of fluids -> **pulmonary edema**
+    - impaired cerebral venous return -> **increase ICP** due to backward pressure
+    - **hepatic and renal dysfunction**
         - decrease venous return -> backward flow of blood to liver -> hepatomegaly and impaired liver function
         - high PPV -> cardiac compression and decrease blood flow to these organs 
 
