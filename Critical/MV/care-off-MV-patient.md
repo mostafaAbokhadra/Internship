@@ -73,7 +73,7 @@ positioning unless contraindicated, air matress, moisture the skin using creams
         - secretions in tube ? -> suction
         - bitting tube ? -> OPA may be neccessary
         - water accumulate in circuit ? -> drain the water on a basket
-        - decrese lung compliance e:g ARDS and pulmonary edema? -> use high PEEP and monitor it's complicatin e:g hypotension
+        - decrease lung compliance e:g ARDS and pulmonary edema? -> use high PEEP and monitor it's complicatin e:g hypotension
         - kinked tubes ? -> fix it
 
 4. ### apnea alarm
