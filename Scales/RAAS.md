@@ -1,0 +1,1 @@
+https://www.physio-pedia.com/Richmond_Agitation-Sedation_Scale_(RASS)
