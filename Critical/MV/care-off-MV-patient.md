@@ -148,7 +148,10 @@ prevent tube obstruction
 5. ### GIT 
 
 - abdominal distension -> decrease lung capacity -> patient can't breate normally
-**action:** NGT to decompress air and prevent by maintaining cuff inflation
+
+**action:**
+
+- NGT to decompress air and prevent by maintaining cuff inflation
 - ETT -> pharyngeal stimulation -> vomiting
 - sedation and immobiliy -> constipation -> do enema
 
@@ -160,11 +163,13 @@ prevent tube obstruction
 2. complications of high PEEP > 5 ? <mark>Hypotension</mark>
 
 3. high pressure alarm can be caused by? 
-<mark>increse secretion in airway, bit block, kinnked tubes</mark>
+<mark>increase secretion in airway, bite block, kinnked tubes</mark>
 
 4. how to prevent VAP?
 <mark>12% chlorohexidine gluconate (hexitol)</mark>
-NOTE: for skin care use concentration of 2%
+
+> [!NOTE]
+> for skin care use concentration of 2%
 oral suction as needed
 
 5. MV patient should avoid diet high in ?
