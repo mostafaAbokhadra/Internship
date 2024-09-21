@@ -42,8 +42,8 @@ positioning unless contraindicated, air matress, moisture the skin using creams
 1. call for help
 2. disconnect patient from MV
 3. hyperventilation using 100% by MRB, if patient is easily ventilated and o2 sat is going back up to normal then usually the problem is in the machine, if pateint is still uncomfy consider that it may be a patient problem not machine
-4. patency of tube: is it obstructed? does the suction catheter is inserted to the end ?
-5. does ABG interpretation indicates other problem?
+4. patency of tube: is it obstructed? does suction catheter insert to the end ?
+5. does ABG interpretation indicate other problem?
 6. X-ray -> can indicates pnuemothorax or tension ....
 
 # vent alarms
