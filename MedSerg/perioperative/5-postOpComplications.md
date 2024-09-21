@@ -1,6 +1,8 @@
-# general post-op complications
+# post-op complications
 
-prevention and early detection of complications and quick management if any of them occur is the nurse's role
+> [!IMPORTANT]
+> prevention and early detection of complications and quick management if any of them occur is the nurse's role
+
 ### immediate Complications
 
 1. **primary hemorrhage**: starts during surgery
@@ -9,7 +11,8 @@ prevention and early detection of complications and quick management if any of t
 4. **shock**: blood loss, acute MI, Pulmonary embolism, speticemia
 5. **low urine output**: inadequate fluid replacement intra-op and post-op
 
-### Early
+### general complication
+
 1. **pain**: due to tissue trauma and surgical incision
     - assess pain regularlyl
     - non-pharmacological pain management
@@ -23,28 +26,9 @@ prevention and early detection of complications and quick management if any of t
     - NPO until assessing cause
     - NGT, fluid and E<sup>+-<sup> replacement
     - antiemetic
-4. **Fever**
-    - is it < 38 ? or higher
-- Secondary hemorrhage: often as a result of infection.
-- Pneumonia.
-- Wound or anastomosis dehiscence.
-- Deep vein thrombosis (DVT).
-- Acute urinary retention.
-- Urinary tract infection (UTI).
-- Postoperative wound infection.
-- Pressure sores.
-- Bowel obstruction due to fibrinous adhesions.
-- Paralytic Ileus.
-
-### Late
-
-- Bowel obstruction due to fibrous adhesions.
-- Incisional hernia.
-- Persistent sinus.
-- Recurrence of reason for surgery - eg, malignancy.
-- Keloid formation.
 
 ### specific post-Op complications
+
 1. **fever**:
     - **Days <mark>0-2</mark>**
         1. **Mild fever** <mark><38</mark> (common)
