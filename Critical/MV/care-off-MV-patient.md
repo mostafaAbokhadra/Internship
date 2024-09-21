@@ -80,7 +80,7 @@ positioning unless contraindicated, air matress, moisture the skin using creams
 - occurs in spantaneous modes e:g cpap
 - patient doesn't take breating spantaneously
 
-    **action**: encourage pateint to breath or give single breath, rate may should be increased
+    **action**: encourage patient to breath or give single breath, rate may should be increased
 
 5. ### increased minute or tidal volume
 - patient is breating more spantaneously breathing
@@ -90,12 +90,12 @@ positioning unless contraindicated, air matress, moisture the skin using creams
     **action:** check RR and evaluate ABG, ETCO2 and patient improvement
 
 > [!NOTE]
-> ETCO2 (End-tidal carbon dioxide) is the level of carbon dioxide that is released at the end of an exhaled breath 
-> it reflects the adequacy with which carbon dioxide (CO2) is carried in the blood back to the lungs and exhaled.
-> it can provide an indication of cardiac output and pulmonary blood flow
-> measured using capnometry or capnography
-> Capnometry provides a numerical value for ETCO2. In contrast, capnography delivers a more comprehensive measurement that is displayed in both graphical (waveform) and numerical form.
-> capnography is more widely used
+> - ETCO2 (End-tidal carbon dioxide) is the level of carbon dioxide that is released at the end of an exhaled breath 
+> - it reflects the adequacy with which carbon dioxide (CO2) is carried in the blood back to the lungs and exhaled.
+> - it can provide an indication of cardiac output and pulmonary blood flow
+> - measured using capnometry or capnography
+> - Capnometry provides a numerical value for ETCO2. In contrast, capnography delivers a more comprehensive measurement that is displayed in both graphical (waveform) and numerical form.
+> - capnography is more widely used
 
 6. ### change in RR
 - may be due to hypoxia or hypercarbia
