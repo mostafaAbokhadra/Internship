@@ -51,7 +51,7 @@
 - start slowly no faster than <mark>20 drop/min</mark> for first 15 min and closely monitor the patient
 - adjust flow rate after the 15 minutes if no reaction happened:
 >[!IMPORTANT]
-> flow rate = <mark>amount * drop factor (10) * time in minutes</mark>
+> flow rate = <mark>(amount * drop factor (10)) / time in minutes</mark>
 - **monitor reaction signs**:
 	- itching, hives, swelling, dyspnea, fever, headache, flank pain, chills, if happend do:
 		- stop transfusion
