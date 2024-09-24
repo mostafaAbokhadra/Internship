@@ -3,12 +3,12 @@
 
 ![](./imgs/anterior-posterior-fas.png)
 
-- look in <mark>limb leads</mark>
+- look in <mark>limb leads</mark> (lead-2, lead-3, AVF, AVL, lead-3)
 
 ### left anterior Hemi-block (LAH)
 - it's when the left anterior fascicle is the one affected 
 
-![](./imgs/3-waveDirection.png)
+![](./imgs/LAH.png)
 
 - <mark>-ve QRS</mark> in **inferior leads** (lead-2, lead-3, AVF)
 
