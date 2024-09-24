@@ -21,6 +21,8 @@
 ![](./imgs/rightAxis2.png)
 
 ### Extreme axis deviation
-- when QRS axis in both lead-1 and AVF are -ve
+- when QRS axis in both <mark>lead-1 and AVF</mark> are <mark>-ve</mark>
 
 ![](./imgs/Extreme-axis.png)
+
+----------

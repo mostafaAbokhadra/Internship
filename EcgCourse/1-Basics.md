@@ -180,6 +180,10 @@ v9 -> para-vertebra
 
 يعني مثلا عندك ST elevation في AVF, LEAD-2, LEAD3 كده ال inferior wall of the heart in the one affected
 
+### Normal 12-lead Ecg
+
+![](./imgs/normal-12Lead.webp)
+
 ### REF
 Dr mohammed salah [ECG part 1](https://youtu.be/52FDq40l8Eg?si=yks0i10lRaVY3BJU)
 

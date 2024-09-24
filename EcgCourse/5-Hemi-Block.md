@@ -18,3 +18,5 @@
 - <mark> -ve QRS</mark> in **lead-1** and **AVL**
 
 ![](./imgs/LPH-ECG.png)
+
+----
