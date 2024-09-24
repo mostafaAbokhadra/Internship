@@ -1,20 +1,20 @@
 ### axis deviation
-- look in limb leads (lead-1 and AVF)
-- normal axis is when QRS is +ve in both lead-1 and AVF
+- look in limb leads <mark>lead-1 and AVF</mark>
+- when QRS axis is +ve in both lead-1 and AVF is called <mark>normal axis</mark>
 
 ![](./imgs/normal-axis.png)
 
 ![](./imgs/normalAxis2.png)
 
 ### Left axis deviation
-- when QRS axis is +ve in lead-1 and -ve in AVF
+- when QRS axis is <mark>+ve in lead-1</mark> and <mark>-ve in AVF</mark>
 
 ![](./imgs/LAD.png)
 
 ![](./imgs/leftAxis2.png)
 
 ### Right axis deviation
-- when QRS axis is +ve in AVF and -ve in lead-1
+- when QRS axis is <mark>+ve in AVF</mark> and <mark>-ve in lead-1</mark>
 
 ![](./imgs/RAD.png)
 
