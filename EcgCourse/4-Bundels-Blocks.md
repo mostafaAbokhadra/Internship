@@ -42,7 +42,7 @@ look in <mark>V1, V2, V5, V6</mark>
 ![](./imgs/M-shape-LBBB.png)
 
 ### inter-ventricular conduction delay (IVCD)
--  it is when RBBB criteria exist in one lead(V1, V2, V5, V6), and LBBB criteria exist in the other lead e:g M-shape in V<sub>1</sub> and M-shape also in V<sub>6</sub>
+-  it is when RBBB criteria exist in one lead(V1, V2, V5, V6), and LBBB criteria exist in the other lead e:g M-shape in V<sub>1</sub> and M-shape also in V<sub>6</sub> or QS in V<sub>1</sub> and slurred-S in V<sub>6</sub>
 
 ### Causes of Right Bundle Branch Block
 
