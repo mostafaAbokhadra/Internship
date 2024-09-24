@@ -5,7 +5,7 @@ they are **3 types**
 3. inter-ventricular conduction delay (IVCD)
 
 > [!IMPORTANT]
-> to diagnose any type of bundel branches blocks, <mark>QRS</mark> must be <mark>wide</mark>, so this is the first thing to look at, if not wide exclude Bundel block
+> to diagnose any type of bundle branches block, <mark>QRS</mark> must be <mark>wide</mark>, because there is a delay in the conduction, so this is the first thing to look at, if QRS is not wide exclude Bundel block
 
 > [!NOTE]
 > the <mark>"Block"</mark> word in the term Brach Block, it doesn't mean an actual Block!, it means only a <mark>Delay</mark>
@@ -42,5 +42,28 @@ look in <mark>V1, V2, V5, V6</mark>
 ![](./imgs/M-shape-LBBB.png)
 
 ### inter-ventricular conduction delay (IVCD)
-- delay, but not severe enough to be diagnosed as either LBBB or RBBB
--  it is when RBBB criteria exist in V1, and LBBB criteria exist in V6 or vice verca
+-  it is when RBBB criteria exist in one lead(V1, V2, V5, V6), and LBBB criteria exist in the other lead e:g M-shape in V<sub>1</sub> and M-shape also in V<sub>6</sub>
+
+### Causes of Right Bundle Branch Block
+
+1. Right Ventricular Enlargement
+2. MI (Inferior STEMI)
+3. Rate Dependent (Tachycardia)
+4. Normal (not uncommon)
+
+> [!NOTE]
+> RBBB in STEMI patient has the very poor prognosis
+
+### Causes of Left Bundle Branch Block
+
+1. Left Ventricular Enlargement
+2. Ischemic Heart Disease, MI
+3. Rate Dependent (Tachycardia)
+4. Normal (Rare)
+
+### Causes of IVCD
+1. myopathy (MyoCardial injury)
+2. hyper-kalemia
+
+> [!NOTE]
+> the septum is depolarized by the left Bundle
