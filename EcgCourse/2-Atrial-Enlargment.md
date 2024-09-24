@@ -8,21 +8,21 @@
 
 ![](./imgs/normal-Pwave.png)
 
-### right atrium enlargment (P-pulmonale)
+### <mark>right</mark> atrium enlargment (P-pulmonale)
 - first half of Pwave is <mark>taller than 2.5 small boxes</mark> in **lead-2** but second half is normal
 - tall +ve Pwave <mark>more that 1mm</mark> in **V1** and normal -ve Pwave 
 
 ![](./imgs/RAE.png)
 
-### left atrium enlargment (P-mitral)
-- notched Pwave or wide Pwave in lead-2
-- normal +ve Pwave and tall -ve Pwave in V1 more that 1mm
+### <mark>left</mark> atrium enlargment (P-mitral)
+- <mark>notched</mark> Pwave or <mark>wide</mark> Pwave in **lead-2**
+- normal +ve Pwave and <mark>deep -ve</mark> Pwave in **V1** more that 1mm
 
 ![](./imgs/LAE.png)
 
 ### Bi-atrial enlargment
-- tall and notched (wide) Pwave in lead-2
-- tall +ve and -ve Pwaves in V1
+- <mark>tall and notched</mark> (wide) Pwave in **lead-2**
+- <mark>tall +ve</mark> and <mark>deep -ve</mark> Pwaves in **V1**
 
 ![](./imgs/BAE.png)
 
