@@ -52,7 +52,7 @@ look in <mark>V1, V2, V5, V6</mark>
 4. Normal (not uncommon)
 
 > [!NOTE]
-> RBBB in STEMI patient has the very poor prognosis
+> RBBB in STEMI patient has a very poor prognosis
 
 ### Causes of Left Bundle Branch Block
 
