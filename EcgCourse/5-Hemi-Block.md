@@ -3,7 +3,7 @@
 
 ![](./imgs/anterior-posterior-fas.png)
 
-- look in <mark>limb leads</mark> (lead-2, lead-3, AVF, AVL, lead-3)
+- look in <mark>limb leads</mark> (lead-2, lead-3, AVF)
 
 ### left anterior Hemi-block (LAH)
 - it's when the left anterior fascicle is the one affected 
