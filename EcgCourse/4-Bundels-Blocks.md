@@ -15,9 +15,32 @@ they are **3 types**
 - <mark>2.5mm - 3mm</mark> is **incomplete** bundle branch block
 - <mark>> 3mm</mark> is **complete** bundle branch block
 
-### left bundle Brach Block (LBBB)
+### Branches Block
+look in <mark>V1, V2, V5, V6</mark>
 
-### right bundle Brach Block (RBBB)
+### right bundle Brach Block (RBBB) (M-shaped, W-shaped)
+- QRS is <mark>M-shape</mark> in **V<sub>1</sub>** and <mark>W-shape</mark> in **V<sub>6</sub>**
+- **V<sub>1</sub>**, **V<sub>2</sub>** there is <mark>wide RSR-dash pattern</mark> (M-shaped, rappit ear) or wide RSR-dash and the R-dash part is wider
+
+![](./imgs/M-shaped-RBBB.png)
+
+![](./imgs/M-shape-RBBB.png)
+
+- **V<sub>5</sub>**, **V<sub>6</sub>** slurred S-wave <mark(wide)</mark> (W-shaped)
+
+![](./imgs/slurred-S-wave-RBBB.png)
+
+![](./imgs/slurred-shape-RBBB.png)
+
+### left bundle Brach Block (LBBB)
+- in **V<sub>1</sub>**, wide -ve QS shape
+
+![](./imgs/w-shape-LBBB.png)
+
+- in **V<sub>6</sub>** <mark>notched wide +ve R</mark> (M-shape)
+
+![](./imgs/M-shape-LBBB.png)
 
 ### inter-ventricular conduction delay (IVCD)
 - delay, but not severe enough to be diagnosed as either LBBB or RBBB
+-  it is when RBBB criteria exist in V1, and LBBB criteria exist in V6 or vice verca
