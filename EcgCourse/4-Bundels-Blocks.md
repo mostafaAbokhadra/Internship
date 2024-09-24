@@ -26,14 +26,14 @@ look in <mark>V1, V2, V5, V6</mark>
 
 ![](./imgs/M-shape-RBBB.png)
 
-- **V<sub>5</sub>**, **V<sub>6</sub>** slurred S-wave <mark(wide)</mark> (W-shaped)
+- **V<sub>5</sub>**, **V<sub>6</sub>** slurred **S-wave** <mark>(wide)</mark> (W-shaped)
 
 ![](./imgs/slurred-S-wave-RBBB.png)
 
 ![](./imgs/slurred-shape-RBBB.png)
 
 ### left bundle Brach Block (LBBB)
-- in **V<sub>1</sub>**, wide -ve QS shape
+- in **V<sub>1</sub>**, wide -ve QS
 
 ![](./imgs/w-shape-LBBB.png)
 
