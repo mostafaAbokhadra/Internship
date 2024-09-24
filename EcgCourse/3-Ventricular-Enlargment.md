@@ -1,24 +1,24 @@
 ### ventricular enlargment
 - look in lead <mark>V1</mark> and <mark>V5, V6</mark>
 
-### Right ventricular enlargment
-- <mark>tall R-wave in V<sub>1</sub><mark> more that 7 small boxes
-- R:S ratio more than 1 (meaning Rwave height = Swave height) in V<sub>1</sub>
+### <mark>Right</mark> ventricular enlargment
+- <mark>tall R-wave more that 7 small boxes</mark> in **V<sub>1</sub>**
+- <mark>R:S ratio more than 1</mark> (meaning Rwave height = Swave height) in **V<sub>1</sub>**
 
 ![](./imgs/RVE.png)
 
-### left ventricular enlargment
-- V<sub>5/6</sub> <mark>R-wave > than 5 large squares (25mm)</mark>
+### <mark>left</mark> ventricular enlargment
+- <mark>R-wave > 5 large squares (25mm)</mark> in **V<sub>5/6</sub>**
 
 ![](./imgs/V5LVE.png)
 
-- <mark>V<sub>5</sub> R-wave</mark> and <mark>V<sub>1</sub> S-wave > 7 large squares (35mm)</mark>
+- **V<sub>5**</sub> R-wave</mark> and <mark>**V<sub>1</sub>** S-wave <mark></mark> 7 large squares (35mm)</mark>
 
 ![](./imgs/LVE.png)
 
-- V<sub>5</sub> R-wave and V<sub>2</sub> S-wave <mark>> 9 small squares (45mm)</mark>
-- V<sub>6</sub> R-wave is taller than V<sub>5</sub> R-wave
-- <mark>AVL</mark> R-wave <mark>more than 11 mm</mark> in femals or <mark>13 mm</mark> in males = 2.2 large boxes
+- **V<sub>5</sub>** R-wave and **V<sub>2</sub>** S-wave <mark>> 9 small squares (45mm)</mark>
+- **V<sub>6</sub>** R-wave is <mark>taller</mark> than **V<sub>5</sub>** R-wave
+- **AVL** R-wave <mark>more than 11 mm</mark> in femals or <mark>13 mm</mark> in males = 2.2 large boxes
 
 ![](./imgs/AVL-LVE.png)
 
