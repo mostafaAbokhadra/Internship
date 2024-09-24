@@ -25,13 +25,13 @@
 ### ionic distribution inside and outsid cardia cells
 
 - intra-Cardiac-Cellular have high concentration of +ve ions like <mark>postassium</mark> and -ve ions like <mark>Bicarb and proteins</mark>
-- extra-Cardiac-Cellular have high concentration of +ve inons like <mark>sodium, clacuim</mark> and -ve ions like<mark>cloride</mark>
+- extra-Cardiac-Cellular have high concentration of +ve inons like <mark>sodium, clacuim</mark> and -ve ions like <mark>cloride</mark>
 
 > [!NOTE]
 > - SAN and AVN are depolrized using rapid influx of <mark>Calcuim</mark> so the velocity of conduction in SAN and AVN depends on calcuim
 > - while the cardic cells are depolarized using <mark>sodium</mark> so the velocity of conduction in cardiac muscles depends on sodium
 
-ال san وال avn شغالين لوحدهم من غير اي اثاره لان في قناه اسمها funny channels or (IF Channels) ودي بتسمح ل ايونات الصوديوم انها تدخل وحده وحده تاني الخليه بعد ما ال depolarization يخلص فبدل ما يكون فيه فترة recovery او الفتره اللي هي الخليه مبتقبلش فيها اي stimulants زي فال cardiac cells or any other cells لا ده هنا فال san على طول بعد ال depolarization عن طريق ال funny channels الصوديوم هيدخل وحد وحده لحد ما ال SAN ت fireUp تاني 
+ال san وال avn شغالين لوحدهم من غير اي اثاره لان في قناه اسمها funny channels or (IF Channels) ودي بتسمح ل ايونات الصوديوم انها تدخل وحده وحده تاني الخليه بعد ما ال depolarization يخلص فبدل ما يكون فيه فترة recovery او الفتره اللي هي الخليه مبتقبلش فيها اي stimulants زي فال cardiac cells or any other cells لا ده هنا فال san على طول بعد ال depolarization عن طريق ال funny channels الصوديوم هيدخل وحده وحده لحد ما ال SAN ت fireUp تاني 
 
 there is the funny channels “if channels” which helps in slow sodium influx, these channels are responsible for the spontaneous depolarization of the SAN, that’s why we call it <mark>Automatic cells</mark>.
 
@@ -51,7 +51,7 @@ there is the funny channels “if channels” which helps in slow sodium influx,
             - lead 3 between <mark>left arm to left foot</mark>
         - 3 unipolar leads (augmented vector leads)
             - AVR from <mark>center of the body to right arm</mark> (right arm is the +ve) 
-            - AVL from <mark>center of the body to left arm</mark> (lfet arm is the +ve) 
+            - AVL from <mark>center of the body to left arm</mark> (left arm is the +ve) 
             - AVF from <mark>center of the body to left foot</mark> (left foot is the +ve)
     - <mark>6</mark> chest leads (unipolar)
 
@@ -61,14 +61,14 @@ there is the funny channels “if channels” which helps in slow sodium influx,
 - 5 big square = 1 second
 - 1 big square = 0.2 second
 - 1 small sqare = 0.04 second = 1 mm
-- 1 ml volt = 2 big square = 10 small square عمودي (amplititude)
-- samll square = 0.1 ml vlot
+- 1 ml volt = 2 big square (مربعين فوق بعض مش جمب بعض) = 10 small square (عشر مربعات فوق بعض مش جمب بعض) (amplititude) 
+- 0.1 ml vlot = one samll square
 
     ### **waves:**
 
     ![](./imgs/normalEcg.png)
     
-    - P wave (atrial depolarization) its width and hight is <mark>not more that 3 small squares (2.5 mm * 2.5 mm)</mark>
+    - P wave (atrial depolarization) its **width** and **hight** is <mark>not more that 3 small squares (2.5 mm * 2.5 mm)</mark>
     - PR segment (AVN delay) 
     - PR interval (P + PR) <mark>3 - 5 small squares</mark>
     - QRS (ventricular depolarization) <mark>2.5 mm wide, 5 small squares hight in limb leads (lead-1, lead-2, lead-3, AVR, AVL, AVF) or 10 small squares hight in chest leads</mark>
