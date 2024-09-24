@@ -3,7 +3,7 @@
 ## measuring heart electricity (3 major things)
 
 1. ### **strength of electricity:**
-    by the wave length <mark>(amplititude)</mark>
+    by the wave length <mark>(amplitude)</mark>
 
     ![strength of electricity](./imgs/1-waveLength.png)
 
