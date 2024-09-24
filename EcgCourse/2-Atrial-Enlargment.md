@@ -2,13 +2,15 @@
 - look in <mark>lead-2</mark> and <mark>V1</mark>
 - the first part of the Pwave represents right atrium contraction, and the second part represents the left atrium contraction
 - Normally the P wave in Lead II is<mark> 2.5 mm long and 2.5 mm</mark> wide. While in Lead V1, the P wave is <mark>biphasic and 1 mm long</mark>
-- the biphasic shape of Pwave in V1: the +Ve part is right atrium contraction and the -ve part is the left atrium contraction
+- the biphasic shape of Pwave in V1:
+  1. the +Ve part is right atrium contraction
+  2. -ve part is the left atrium contraction
 
 ![](./imgs/normal-Pwave.png)
 
 ### right atrium enlargment (P-pulmonale)
-- first half of Pwave is taller than 2.5 small boxes in lead-2, second half is normal
-- tall +ve Pwave more that 1mm in V1 and normal -ve Pwave 
+- first half of Pwave is <mark>taller than 2.5 small boxes</mark> in **lead-2** but second half is normal
+- tall +ve Pwave <mark>more that 1mm</mark> in **V1** and normal -ve Pwave 
 
 ![](./imgs/RAE.png)
 
