@@ -25,7 +25,7 @@
 <img src="./imgs/pathological-Q.png" width="400px" height="400px">
 
 > [!TIP]
-> - first ecg change occurs in MI is <mark>ST-elevation</mark> represents cells injury, then <mark>T-wave changes</mark>representing ischemia, and finally the <mark>pathological Q-wave occur</mark> representing the necrosis (MI)
+> - first ecg changes occurs in MI is <mark>ST-elevation</mark> represents cells injury, then <mark>T-wave changes</mark> represent ischemia, and finally the <mark>pathological Q-wave</mark> occur represents the necrosis (MI)
 > - when interpreting MI, determine <mark>age</mark> of infarction (old, new), <mark>site</mark> of the infarction (according to leads), and <mark>size</mark>
 
 ### infarction age
@@ -50,9 +50,12 @@
 
 ### size
 **Determined using three items**- 
-- Height of ST Elevation
-- Numbers of Leads Showing STEMI
-- Leads showing reciprocal T wave changes: for example anterior leads ST-elevation will also show posterior leads ST-Depression, so if ante
+- **Height of ST Elevation**
+    - the more higher ST is the more size is affected
+- **Numbers of Leads Showing STEMI**
+    - the more leads showing stemi the more size is affected
+    - e:g infarction represents as lead-2 only STEMI is smaller that infarction represents as lead-2, lead-3 and AVF STEMI
+- **Leads showing reciprocal T wave changes**
 
 > [!NOTE]
 > - reciprocal T-wave changes mean that whenever you have ST-elevation in some leads you will also have ST-Depression in the opposite leads
