@@ -12,11 +12,11 @@
 
 ![](./imgs/V5LVE.png)
 
-- **V<sub>5**</sub> R-wave</mark> and <mark>**V<sub>1</sub>** S-wave <mark></mark> 7 large squares (35mm)</mark>
+- **V<sub>5**</sub> R-wave + **V<sub>1</sub>** S-wave <mark>> 7 large squares (35mm)</mark>
 
 ![](./imgs/LVE.png)
 
-- **V<sub>5</sub>** R-wave and **V<sub>2</sub>** S-wave <mark>> 9 small squares (45mm)</mark>
+- **V<sub>5</sub>** R-wave + **V<sub>2</sub>** S-wave <mark>> 9 small squares (45mm)</mark>
 - **V<sub>6</sub>** R-wave is <mark>taller</mark> than **V<sub>5</sub>** R-wave
 - **AVL** R-wave <mark>more than 11 mm</mark> in femals or <mark>13 mm</mark> in males = 2.2 large boxes
 

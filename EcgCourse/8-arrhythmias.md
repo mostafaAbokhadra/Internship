@@ -1,6 +1,6 @@
 ### arrhythmias
 - look to long strips <mark>lead-2, V2, V5</mark>
-- loof for <mark>regularity, rate, and pacemaker</mark>
+- look for <mark>regularity, rate, and pacemaker</mark>
 
 ### Regularity
 - regular
@@ -9,8 +9,8 @@
 
 ### Rate
 - **if regular**:
-    - 300/ no. of big squares between two R-waves.
-    - 1500/ no. of small squares between two R-waves.
+    - calculate by dividing 300 over no. of big squares between two R-waves.
+    - or 1500 / no. of small squares between two R-waves.
 - if irregular
     - no. of QRS in 30 big square × 10
 
@@ -33,7 +33,7 @@
 3. **Atrial**
     - No sinus P wave
     - present of Small P-wave that may be biphasic or inverted
-    - this small atrial foci it has 2 types:
+    - this small atrial foci it has **2 types**:
         - Atrial ectopic focus
         - Multiple foci: which is the main responsible for, AFib & AFlutter & MAT & WAP
 

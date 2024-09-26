@@ -13,7 +13,7 @@
     - **Sinus bradycardia**
         - Regular
         - rate < 60 bpm
-        - normally in athelete, myxedema, hypothyrodism, betablocker, sleep, <mark>ICP</mark>
+        - normal in athelete, myxedema, hypothyrodism, betablocker, sleep, <mark>ICP</mark>
     - **Sinus Arrhythmia**
         - irregular
         - occur normally with deep inspiration
