@@ -3,7 +3,7 @@ Mechanical ventilation is a critical intervention to sustain life in acute or em
 
 ### Indications
 1. **Airway compromise due to disease**
-    - trauma
+    - trauma, chest wall trauma
     - oropharyngeal infection.
     - Patients with airway obstruction such as **angioedema** or distal issues (such as **asthmatic bronchospasm** or **acute exacerbation of chronic obstructive pulmonary disease** or COPD).
 2. Hypoventilation can result from impaired drive, pump failure, or gas exchange difficulties, leading to **hypercapnic respiratory failure**.
@@ -18,6 +18,8 @@ Mechanical ventilation is a critical intervention to sustain life in acute or em
 4. **Increased ventilatory demand**
     - severe sepsis, shock
     - severe metabolic acidosis
+5. neuromuscular diseases e:g myasthenia gravis, guillian-barre syndrome, polymyelitis
+
 
 ### Normal breating mechanics
 
