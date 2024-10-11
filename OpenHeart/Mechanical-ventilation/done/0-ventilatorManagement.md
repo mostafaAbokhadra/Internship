@@ -1,4 +1,5 @@
 ## mechanical ventilation
+NIH (ref)(https://www.ncbi.nlm.nih.gov/books/NBK448186/)
 
 ### important terms
 
@@ -26,23 +27,6 @@ Ventilation is measured as minute ventilation in the clinical setting, and it is
 
 Since having a patient on mechanical ventilation allows a practitioner to modify the patient’s ventilation and oxygenation, it has an important role in acute **hypoxic and hypercapnic respiratory failure** as well as in **severe metabolic acidosis or alkalosis**
 
-### common vent settings
-(Fio2, VT, RR or f, I:E, Ve, sigh Volume, peak inspiratory pressure, trigger sensitivity)
-### alarms causes and managements
-(low pressure, high pressure, decrease minute or tidal volume, increased minute or tidal volume, RR alarm, temperatrue alarm, vent inoperable, apnea alarm)
-### complications of MV
-- Ventilator-Associated Lung Injury
-- Ventilator-Associated Events 
-- Hemodynamic Changes
-- atelect/baro/volu traumas
-### lung protective strategy for ards
-### vap bundel
-### weaning criteria
-### mehtods of weaning
-### nursing care for MV patient
-### role of nurse in weaning (before, during, after)
-
-
 ### Physiology of Mechanical Ventilation
 
 Normal respiratory physiology works as a negative pressure system, When the diaphragm pushes down during inspiration, negative pressure in the pleural cavity is generated, this, in turn, creates negative pressure in the airways that suck air into the lungs. This same negative intrathoracic pressure decreases the right atrial (RA) pressure and generates a sucking effect on the inferior vena cava (IVC), increasing venous return.
@@ -57,7 +41,7 @@ This is a very important consideration in patients who may not be able to increa
 
 On the other hand, mechanical ventilation with positive pressure can significantly decrease the work of breathing. This, in turn, decreases blood flow to respiratory muscles and redistributes it to more critical organs. Reducing the work from respiratory muscles also reduces the generation of CO2 and lactate from these muscles, helping improve acidosis.
 
-The effects of mechanical ventilation with positive pressure on the venous return may be beneficial when used in patients with cardiogenic pulmonary edema. In these patients with volume overload, decreasing venous return will directly decrease the amount of pulmonary edema being generated, by decreasing right cardiac output. At the same time, the decreased return may improve overdistension in the left ventricle, placing it at a more advantageous point in the Frank-Starling curve and possibly improving cardiac output.
+The effects of mechanical ventilation with positive pressure on the venous return may be beneficial when used in patients with cardiogenic pulmonary edema. In these patients with volume overload, decreasing venous return will directly decrease the amount of pulmonary edema being generated, by decreasing right cardiac output. At the same time, the decreased return may improve overdistension in the left ventricle
 
 Proper management of mechanical ventilation also requires an understanding of lung pressures and lung compliance. Normal lung compliance is around 100 ml/cmH20. This means that in a normal lung the administration of 500 ml of air via positive pressure ventilation will increase the alveolar pressure by 5 cm H2O. Conversely, the administration of positive pressure of 5 cm H2O will generate an increase in lung volume of 500 mL. When working with abnormal lungs, compliance may be much higher or much lower. Any disease that destroys lung parenchyma like **emphysema** will <mark>increase</mark> compliance, any disease that generates stiffer lungs (ARDS, pneumonia, pulmonary edema, pulmonary fibrosis) will <mark>decrease</mark> lung compliance.
 
@@ -68,6 +52,7 @@ There are two important pressures in the system to be aware of when mechanically
 1. **Peak pressure** is the pressure achieved during inspiration when the air is being pushed into the lungs and is a measure of **airway resistance**
 
 2. **Plateau pressure** is the static pressure achieved at the end of a full inspiration. To measure plateau pressure, we need to perform an inspiratory hold on the ventilator to permit the pressure to equalize through the system. Plateau pressure is a **measure of alveolar pressure and lung compliance**.
+
 Normal plateau pressure is <mark>below 30 cm H20</mark>, and higher pressure can generate barotrauma.
 
 
@@ -92,7 +77,7 @@ After intubating a patient and connecting to the ventilator, it is time to selec
 
 As mentioned, compliance is the **change in volume divided by the change in pressure**. When mechanically ventilating a patient, one can select how the ventilator will deliver the breaths. The ventilator can be set up to either deliver a set amount of volume or a set amount of pressure, and it is up to the clinician to decide which would be more beneficial for the patient. When selecting what the ventilator will deliver, you are selecting which will be the dependent and which will be the independent variable in the lung compliance equation.
 
-If we select to start the patient on volume-controlled ventilation, the ventilator will always deliver the same amount of volume (independent variable), and the generated pressure will be dependent on compliance. If compliance is poor, the pressure will be high, and barotrauma could ensue.
+If we select to start the patient on volume-controlled ventilation, the ventilator will always deliver the same amount of volume (independent variable), and the generated pressure will be dependent on compliance. If compliance is poor, the pressure will be high, and barotrauma could ensue ترتب على ذلك.
 
 If on the other hand, we decide to start the patient on pressure-controlled ventilation, the ventilator will always deliver the same pressure during the respiratory cycle. However, the tidal volume will depend on lung compliance, and in cases where compliance frequently changes (like in asthma), this will generate unreliable tidal volumes and may cause hypercapnia or hyperventilation.
 
@@ -128,7 +113,7 @@ SIMV is another frequently used mode of ventilation, although its use had been f
 
 ### Pressure Support Ventilation (PSV)
 
-PSV is a ventilator mode that relies completely on patient-triggered breaths. As the name implies it is a pressure-driven mode of ventilation. In this setting all breaths are patient-triggered as the ventilator has no backup rate, so each breath has to be started by the patient. In this mode, the ventilator will **cycle between two different pressures** (PEEP and pressure support). PEEP will be the remaining pressure at the end of exhalation, and pressure support is the pressure above the PEEP that the ventilator will administer during each breath for support of ventilation. This means that if a patient is set up in PSV 10/5, the patient will receive 5 cm H2O of PEEP, and during inhalation, he will receive 15 cm H2O of support (10 PS above PEEP).
+PSV is a ventilator mode that relies completely on patient-triggered breaths. As the name implies it is a pressure-driven mode of ventilation. In this setting all breaths are patient-triggered as the ventilator has no backup rate, so each breath has to be started by the patient. In this mode, the ventilator will **cycle between two different pressures** (PEEP and pressure support). PEEP will be the remaining pressure at the end of exhalation, and pressure support is the pressure above(+) the PEEP that the ventilator will administer during each breath for support of ventilation. This means that if a patient is set up in PSV 10/5, the patient will receive 5 cm H2O of PEEP, and during inhalation, he will receive 15 cm H2O of support (10 PS above PEEP).
 
 Because there is no backup rate, this mode is not for use in patients with decreased consciousness, shock, or cardiac arrest. The tidal volumes will depend solely on the patient's effort and lung compliance.
 
@@ -144,7 +129,7 @@ As the name suggests, in APRV mode the ventilator will deliver a constant high a
 
 This mode has recently gained popularity as an alternative for **difficult-to-oxygenate patients** with ARDS in whom other modes of ventilation fail to reach the set targets. APRV has been described as a continuous positive airway pressure (CPAP) with an intermittent release phase. What this means is that the ventilator applies a continuous high pressure (P high) for a set amount of time (T high) and then releases that pressure, usually going back to zero (P low) for a much shorter period of time (T low).
 
-The idea behind this is that during T high (which covers 80% to 95% of the cycle), there is constant alveolar recruitment, which improves oxygenation as the time maintained on high pressure is much longer than in other types of ventilation (open lung strategy). This reduces the repetitive inflation and deflation of the lungs that happens with other ventilator modes, **preventing ventilator-induced lung injury**. During this time (T high) the patient is free to breathe spontaneously (which makes it comfortable) but he will be pulling low tidal volumes as exhaling against such pressure is harder. Then, when T high is reached, the pressure in the ventilator will go down to P low (usually zero). This allows for air to be rushed out of the airways allowing for passive exhalation until T low is reached and the vent delivers another breath. To prevent airway collapse during this time the T low is set short, usually around **0.4-0.8** seconds. What happens here is that when the ventilator pressure goes to zero, the elastic recoil of the lungs pushes air out, but the time is not enough for all the air to leave the lungs, so the alveolar and airway pressure does not reach zero and there is no airway collapse.  This time is usually set up so that T low ends when the exhalation flow drops to 50% of the initial flow.
+The idea behind this is that during T high (which covers 80% to 95% of the cycle), there is constant alveolar recruitment, which improves oxygenation as the time maintained on high pressure is much longer than in other types of ventilation (open lung strategy). This reduces the repetitive inflation and deflation of the lungs that happens with other ventilator modes, **preventing ventilator-induced lung injury**. During this time (T high) the patient is free to breathe spontaneously (which makes it comfortable) but he will be pulling low tidal volumes as exhaling against such pressure is harder. Then, when T high is reached, the pressure in the ventilator will go down to P low (usually zero). This allows for air to be rushed out of the airways allowing for passive exhalation until T low is reached and the vent delivers another breath. To prevent airway collapse during this time the T low is set short, usually around **0.4-0.8** seconds. What happens here is that when the ventilator pressure goes to zero, the elastic recoil of the lungs pushes air out, but the time is not enough for all the air to leave the lungs, so the alveolar and airway pressure does not reach zero and there is no airway collapse. This time is usually set up so that T low ends when the exhalation flow drops to 50% of the initial flow.
 
 Minute ventilation, then, will depend on T low and the patient's tidal volumes during T high.
 
@@ -177,13 +162,11 @@ Strong clinical reasoning should be employed when selecting APRV as the mode of 
 
 ### Using the Ventilator
 
-The initial ventilator setting can vary greatly depending on the cause for intubation and the scope of this review. Nonetheless, there are some basic settings for the majority of cases.
-
 The most common ventilator mode to use in a newly intubated patient is AC. The AC mode provides good comfort and easy control of some of the most important physiologic parameters.
 
 It is started with a FiO2 of 100% and titrated down guided by pulse oximetry or ABG, depending on the case.
 
-Low tidal volume ventilation has been shown to be lung protective not only in ARDS but in other types of diseases. Starting the patient on a low tidal volume (6 to 8 mL/Kg of ideal body weight) will reduce the incidence of ventilator-induced lung injury (VILI). Always use a lung-protective strategy as there are not many advantages for higher tidal volumes and they will increase shear stress in the alveoli and may induce lung injury.
+Low tidal volume ventilation has been shown to be **lung protective** not only in ARDS but in other types of diseases. Starting the patient on a low tidal volume (6 to 8 mL/Kg of ideal body weight) will reduce the incidence of ventilator-induced lung injury (VILI). Always use a lung-protective strategy as there are not many advantages for higher tidal volumes and they will increase shear stress in the alveoli and may induce lung injury.
 
 Initial RR should be comfortable for the patient 10-12 bpm should suffice. A very important caveat on this is for patients with severe metabolic acidosis. For these patients, the minute ventilation should at least be matched to their pre-intubation ventilation as failure to do so will worsen acidosis and can precipitate complications such as cardiac arrest.
 
@@ -195,18 +178,19 @@ An ABG should be obtained 30 minutes after intubation and changes to the ventila
 
 Peak and plateau pressures should be checked on the vent to assure there are no problems with airway resistance or alveolar pressure in order to prevent ventilator-induced lung injury.
 
-Attention should be given to the volume curves in the ventilator display as a reading showing that the curve is not coming back to zero at the time of exhalation is indicative of incomplete exhalation and development of auto-PEEP and corrections to the vent should be made immediately.[7][8]
+Attention should be given to the volume curves in the ventilator display as a reading showing that the **curve is not coming back to zero at the time of exhalation is indicative of incomplete exhalation and development of auto-PEEP** and corrections to the vent should be made immediately.
 
-Troubleshooting the Ventilator
+### Troubleshooting the Ventilator
 
-With a good understanding of the concepts discussed, managing ventilator complications and solving problems should come as second nature.
+The most common corrections that have to be done with the ventilator are to solve **hypoxemia and hypercapnia or hyperventilation**:
 
-The most common corrections that have to be done with the ventilator are to solve hypoxemia and hypercapnia or hyperventilation:
+**Hypoxia**: Oxygenation depends on the FiO2 and the PEEP (T high and P high for APRV). To correct for hypoxia increasing any of these parameters should raise the oxygenation. Special attention should be paid to the possible adverse effects of raising PEEP which can cause barotrauma and hypotension. Raising FiO2 does not come without its concerns as high FiO2 can cause **oxidative damage** in the alveoli. Another important aspect of managing oxygen content is to define a goal for oxygenation. In general, there is little benefit from keeping oxygen saturation above **92-94%** except for cases of **carbon monoxide poisoning** for example. A sudden drop in oxygen saturation should raise suspicion for **tube misplacement**, **pulmonary embolism, pneumothorax, pulmonary edema, atelectasis**, or the development of **mucus plugs**.
 
-Hypoxia: Oxygenation depends on the FiO2 and the PEEP (T high and P high for APRV). To correct for hypoxia increasing any of these parameters should raise the oxygenation. Special attention should be paid to the possible adverse effects of raising PEEP which can cause barotrauma and hypotension. Raising FiO2 does not come without its concerns as high FiO2 can cause oxidative damage in the alveoli. Another important aspect of managing oxygen content is to define a goal for oxygenation. In general, there is little benefit from keeping oxygen saturation above 92-94% except for cases of carbon monoxide poisoning for example. A sudden drop in oxygen saturation should raise suspicion for tube misplacement, pulmonary embolism, pneumothorax, pulmonary edema, atelectasis, or the development of mucus plugs.
-Hypercapnia: To modify CO2 content in blood one needs to modify alveolar ventilation. To do this, the tidal volume or the respiratory rate may be tampered with (T low and P Low in APRV). Raising the rate or the tidal volume, as well as increasing T low, will increase ventilation and decrease CO2. Consideration has to be made while increasing the rate, as this will also increase the amount of dead space and might not be as effective as tidal volume. While increasing volume or rate special attention should be paid to the flow-volume loop to prevent the development of auto-PEEP.
-Elevated pressures: Two pressures are important in the system: peak and plateau. The peak pressure is a measure of airway resistance as well as compliance and includes the tubing and bronchial tree. Plateau pressures are a reflection of alveolar pressure and thus of lung compliance.
-If there is an increase in peak pressure, the first step to take is to do an inspiratory hold and check the plateau.
+**Hypercapnia**: To modify CO2 content in blood one needs to modify alveolar ventilation. To do this, the **tidal volume or the respiratory rate** may be tampered with (T low and P Low in APRV). **Raising the rate or the tidal volume**, as well as **increasing T low** will increase ventilation and decrease CO2. Consideration has to be made while increasing the rate, as this will also **increase the amount of dead space** and might not be as effective as tidal volume. While increasing volume or rate special attention should be paid to the flow-volume loop to prevent the development of auto-PEEP.
+
+**Elevated pressures**: Two pressures are important in the system: peak and plateau. The peak pressure is a measure of airway resistance as well as compliance and includes the tubing and bronchial tree. Plateau pressures are a reflection of alveolar pressure and thus of lung compliance.
+
+If there is an increase in peak pressure, the first step to take is to do an **inspiratory hold and check the plateau**.
 
 Elevated peak pressure and normal plateau pressure: high airway resistance and normal compliance.
 
@@ -216,55 +200,65 @@ Elevated Peak and Elevated Plateau: Compliance Problems
 
 Possible causes include:
 
-Mainstem intubation: The solution is to retract the ET tube. For diagnosis, you will find a patient with unilateral breath sounds and a dull contralateral lung (atelectatic lung).
-Pneumothorax: Diagnosis will be made by hearing breath sounds unilaterally and finding a hyper-resonant contralateral lung. In intubated patients, placement of a chest tube is imperative as the positive pressure will only worsen the pneumothorax.
-Atelectasis: Initial management consists of chest percussions and recruitment maneuvers. Bronchoscopy may be used in resistant cases
-Pulmonary edema: Diuresis, inotropes, high PEEP
-ARDS: Use low tidal volume, high PEEP ventilation
-Dynamic hyperinflation or auto-PEEP: This is a process in which some of the inhaled air is not fully exhaled at the end of the respiratory cycle. The accumulation of trapped air will increase pulmonary pressures and cause barotrauma and hypotension. The patient will be difficult to ventilate. To prevent and resolve auto-PEEP, enough time should be given for the air to leave the lungs during exhalation. The goal in management is to decrease the inspiratory to expiratory ratio, this can be achieved by decreasing respiratory rate, decreasing tidal volume (higher volume will require a longer time to leave the lungs), and increasing inspiratory flow (if the air is delivered quickly the inspiratory time is less and the expiratory time will be longer at any given respiratory rate). The same effect can be achieved by using a square waveform for inspiratory flow, what this means is that we can set the ventilator to deliver the full flow from beginning to end of inhalation. Other techniques that can be implemented are to assure adequate sedation to prevent patient hyperventilating and the use of bronchodilators and steroids to decrease airway obstruction. If auto-PEEP is severe causing hypotension, disconnecting the patient from the vent and letting time for all the air to be exhaled may be a life-saving measure. For a full description of the management of auto-PEEP please review the article titled “Positive End-Expiratory Pressure (PEEP)”
+**Mainstem intubation**: serious complication that occurs when the endotracheal tube is inadvertently placed into one of the main bronchi (stem bronchi) instead of the trachea. This can lead to hyperventilation of one lung and hypoventilation of the other, resulting in significant respiratory distress and potential organ damage.
 
-Another common problem found in mechanically ventilated patients is patient-ventilator dyssynchrony, usually termed as the patient “fighting the vent”. Important causes include hypoxia, auto-PEEP, not satisfying the patient's oxygenation or ventilation demands, pain, and discomfort. After ruling out important causes such as pneumothorax or atelectasis, patient comfort should be considered and proper sedation and analgesia should be assured. Consider changing the ventilator mode as some patients may respond better to different modes of ventilation.
+The solution is to retract the ET tube. For diagnosis, you will find a patient with **unilateral breath sounds and a dull contralateral lung** (atelectatic lung).
 
-Special Circumstances
+**Pneumothorax**: Diagnosis will be made by hearing ((**breath sounds unilaterally**)) and finding a **hyper-resonant contralateral lung**. In intubated patients, placement of a chest tube is imperative الزامي as the positive pressure will only worsen the pneumothorax.
+
+**Atelectasis**: Initial management consists of **chest percussions** and recruitment maneuvers. Bronchoscopy may be used in resistant cases
+
+**Pulmonary edema**: Diuresis, inotropes, high PEEP
+
+**ARDS**: Use low tidal volume, high PEEP ventilation
+
+**Dynamic hyperinflation or auto-PEEP**: This is a process in which some of the inhaled air is not fully exhaled at the end of the respiratory cycle. The accumulation of trapped air will increase pulmonary pressures and cause barotrauma and hypotension.
+
+The patient will be difficult to ventilate. To prevent and resolve auto-PEEP, **enough time should be given for the air to leave the lungs during exhalation**. The goal in management is to decrease the inspiratory to expiratory ratio, this can be achieved by **decreasing respiratory rate**, **decreasing tidal volume** (higher volume will require a longer time to leave the lungs), and **increasing inspiratory flow** (if the air is delivered quickly the inspiratory time is less and the expiratory time will be longer at any given respiratory rate).
+
+The same effect can be achieved by using **a square waveform for inspiratory flow**, what this means is that we can set the ventilator to deliver the full flow from beginning to end of inhalation. Other techniques that can be implemented are to assure adequate sedation to prevent patient hyperventilating and the use of bronchodilators and steroids to decrease airway obstruction.
+
+If auto-PEEP is severe causing hypotension, disconnecting the patient from the vent and letting time for all the air to be exhaled may be a life-saving measure.
+
+Another common problem found in mechanically ventilated patients is **patient-ventilator dyssynchrony** usually termed as the patient “fighting the vent”. Important causes include hypoxia, auto-PEEP, not satisfying the patient's oxygenation or ventilation demands, pain, and discomfort. After ruling out important causes such as pneumothorax or atelectasis, patient comfort should be considered and proper sedation and analgesia should be assured. Consider changing the ventilator mode as some patients may respond better to different modes of ventilation.
+
+### Special Circumstances
 
 Special attention to vent settings should be taken in the following circumstances:
 
-COPD is a special case, as lungs in pure COPD have high compliance which causes a high tendency for dynamic airflow obstruction due to airway collapse and air trapping, making COPD patients very prone to developing auto-PEEP. Using a preventive ventilation strategy with high flow and low respiratory rate may help prevent auto-PEEP. Another important aspect to consider in chronic hypercapnic respiratory failure (due to COPD or another reason) is that there is no need to correct the CO2 back to normal, as these patients usually have a metabolic compensation for their respiratory problems. If a patient is ventilated to normal CO2 levels, his bicarbonate will decrease, and when a patient is extubated he will quickly go to respiratory acidosis as his kidneys cannot respond as fast as his lungs and his CO2 will go back to his baseline, causing respiratory failure and reintubation. To prevent this, CO2 goals should be determined based on pH and previously known or calculated baseline.
+COPD is a special case, as lungs in pure COPD have high compliance which causes a high tendency for dynamic airflow obstruction due to airway collapse and air trapping, making COPD patients very prone to developing auto-PEEP. Using a preventive ventilation strategy with **high flow and low respiratory rate** may help prevent auto-PEEP. Another important aspect to consider in chronic hypercapnic respiratory failure (due to COPD or another reason) is that there is no need to correct the CO2 back to normal, as these patients usually have a metabolic compensation for their respiratory problems. If a patient is ventilated to normal CO2 levels, his bicarbonate will decrease, and when a patient is extubated he will quickly go to respiratory acidosis as his kidneys cannot respond as fast as his lungs and his CO2 will go back to his baseline, causing respiratory failure and reintubation. To prevent this, CO2 goals should be determined based on pH and previously known or calculated baseline.
 
-Asthma: As with COPD patients with asthma are very prone to air trapping, although the reason is pathophysiologically different. In asthma, air trapping is caused by inflammation, bronchospasm, and mucus plugs, not airway collapse. The strategy to prevent auto-PEEP is similar to the strategy used in COPD.
+**Asthma**: As with COPD patients with asthma are very prone to air trapping, although the reason is pathophysiologically different. In asthma, air trapping is caused by inflammation, bronchospasm, and mucus plugs, not airway collapse. The strategy to prevent auto-PEEP is similar to the strategy used in COPD.
 
-Cardiogenic pulmonary edema: High PEEP may decrease venous return and help resolve pulmonary edema as well as aid in cardiac output. The concern should be to make sure the patient is adequately diuresed before extubating, as the removal of the positive pressure may precipitate new pulmonary edema.
+**Cardiogenic pulmonary edema**: High PEEP may decrease venous return and help resolve pulmonary edema as well as aid in cardiac output. The concern should be to make sure the patient is adequately diuresed before extubating, as the removal of the positive pressure may precipitate new pulmonary edema.
 
 ARDS is a type of non-cardiogenic pulmonary edema. An open lung strategy with high PEEP and low tidal volume has been shown to improve mortality.
 
-Pulmonary embolism is a difficult situation. These patients are very preload-dependent secondary to the acute increase in right atrial pressure. Intubating these patients will increase RA pressure and further decrease venous return, which may precipitate shock. If there is no way to prevent intubation, careful attention to blood pressure and initiation of vasopressors should be done promptly.
+**Pulmonary embolism** is a difficult situation. These patients are very preload-dependent secondary to the acute increase in right atrial pressure. Intubating these patients will increase RA pressure and further decrease venous return, which may precipitate shock. If there is no way to prevent intubation, careful attention to blood pressure and initiation of vasopressors should be done promptly.
 
-Severe pure metabolic acidosis is a concern. When intubating these patients, careful attention should be paid to their pre-intubation minute ventilation. If this ventilation is not provided when starting mechanical support, pH will drop further possibly precipitating cardiac arrest. 
+Severe pure **metabolic acidosis** is a concern. When intubating these patients, careful attention should be paid to their pre-intubation minute ventilation. If this ventilation is not provided when starting mechanical support, pH will drop further possibly precipitating cardiac arrest. 
 
-Go to:
-Other Issues
-Weaning from Mechanical Ventilation
+### Weaning from Mechanical Ventilation
 
 Mechanical ventilation can be a lifesaving intervention and has impacted millions of lives since its invention, but it is not without complications. Shortening the ventilator time has shown to reduce ventilation-related complications like pneumonia, so actively pursuing liberation from mechanical ventilation (the so-called ventilation weaning) is imperative in every ventilated patient.
 
 There are simple criteria that should be satisfied before a patient is determined to be ready for extubation:
 
-The indication for intubation and mechanical ventilation must be resolved
-The patient has to be able to maintain adequate gas exchange on its own without the help of positive pressure ventilation
-There must be no auto-PEEP
-The patient must have an adequate cardiovascular reserve (for example, in heart failure patients in which removing the vent can precipitate new pulmonary edema)
-There should not be copious amounts of secretions in the ET tube that could generate high airway resistance and obstruction after extubation
-The patient must be able to protect his or her airway.
+- The indication for intubation and mechanical ventilation must be resolved
+- The patient has to be able to maintain adequate gas exchange on its own without the help of positive pressure ventilation
+- There must be no auto-PEEP
+- The patient must have an adequate cardiovascular reserve (for example, in heart failure patients in which removing the vent can precipitate new pulmonary edema)
+- There should not be copious amounts of secretions in the ET tube that could generate high airway resistance and obstruction after extubation
+- The patient must be able to protect his or her airway.
+
 After these criteria have been satisfied it is time to perform a spontaneous breathing trial (SBT). Two processes have to be completed to perform this:
 
-A sedation holiday should be done daily to assess readiness for extubation with appropriate mental status and ability to protect the airway as well as to permit spontaneous breathing. This is usually protocolized in all intensive care units (ICU) and should be performed in every patient who is stable and in whom the indication for mechanical ventilation has resolved. During these daily trials, sedation is reduced to a minimum or completely eliminated until the patient is awake and cooperative but comfortable.
-The second parameter is the SBT itself. To perform this, ventilator support should be reduced to a minimum. This can be done either via T-piece or pressure support. CPAP has been used in the past although it has been suggested to be inferior to the other two methods. A recent Cochrane review (2014) concluded that there are no major differences between T piece or pressure support trials on extubation success, reintubation, ICU mortality, or ICU length of stay. Nevertheless, pressure support was found to be superior for performing spontaneous breathing trials among patients with simple weaning (meaning patients successfully weaned in the first attempt) as it was shown to have a shorter weaning time.
-SBT should be performed for 30 to 120 minutes, and the patient should be monitored closely for any signs of respiratory distress. If these signs are found, the patient should be placed back on his or her prior ventilator settings. If after this time patient meets criteria for successful SBT (RR < 35bpm; no signs of distress; HR <140/min and HR variability less than 20%; O2 sat greater than 90% or PaO2 greater than 60 mmHg on FiO2 less than 0.4; SBP greater than 80 and less than 180 mmHg or less than 20% change from baseline), then the assessment for airway removal should be done by performing a cuff leak test when indicated.
+A **sedation holiday** should be done daily to assess readiness for extubation with appropriate mental status and ability to protect the airway as well as to permit spontaneous breathing. This is usually protocolized in all intensive care units (ICU) and should be performed in every patient who is stable and in whom the indication for mechanical ventilation has resolved. During these daily trials, sedation is reduced to a minimum or completely eliminated until the patient is awake and cooperative but comfortable.
+
+The second parameter is the SBT itself. To perform this, ventilator support should be reduced to a minimum. This can be done either via **T-piece or pressure support**. CPAP has been used in the past although it has been suggested to be inferior to the other two methods. A recent Cochrane review (2014) concluded that there are no major differences between T piece or pressure support trials on extubation success, reintubation, ICU mortality, or ICU length of stay. Nevertheless, pressure support was found to be superior for performing spontaneous breathing trials among patients with simple weaning (meaning patients successfully weaned in the first attempt) as it was shown to have a shorter weaning time.
+
+SBT should be performed for **30 to 120** minutes, and the patient should be monitored closely for any signs of respiratory distress. If these signs are found, the patient should be placed back on his or her prior ventilator settings.
+
+If after this time patient meets criteria for successful SBT (RR < 35bpm; no signs of distress; HR <140/min and HR variability less than 20%; O2 sat greater than 90% or PaO2 greater than 60 mmHg on FiO2 less than 0.4; SBP greater than 80 and less than 180 mmHg or less than 20% change from baseline), then the assessment for airway removal should be done by performing a cuff leak test when indicated.
 
 If the patient is determined to be ready, the ETT should be removed and the patient should be monitored closely. In patients with high risk for reintubation (failure of two or more SBTs, CHF, CO2 greater than 45 after extubation, weak cough, pneumonia as a cause of respiratory failure), the use of noninvasive positive pressure ventilation after extubation as a bridge to ventilator free-breathing, has been shown to reduce ICU mortality and lower risk of intubation. This effect was not seen if the patient had already developed respiratory distress. High flow nasal cannula has also shown reduced reintubation rates, although no effect on mortality has been seen.
-
-Go to:
-Enhancing Healthcare Team Outcomes
-There is no doubt that mechanical ventilation is a life-saving procedure that has impacted millions of lives of patients with respiratory failure around the world. It is also beneficially used in patients with chronic irreversible causes of respiratory failure like neuromuscular disease or spinal cord injuries, permitting them to live a life that would not have been possible before the creation of the mechanical ventilator. [9][10]
-
-Mechanical ventilation requires the simultaneous skills of many in the interprofessional healthcare team. The respiratory therapist is the guide on how to resolve acute issues with the ventilator. Nurses are usually the first in identifying set issues, and understanding the physiology and management of mechanical ventilation is crucial for clinicians managing patients in the ICU. These caregivers must alert the clinician managing the case immediately if there are any issues with ventilator use. This type of interprofessional collaboration will lead to improved results in managing patients on ventilators. [Level 5]
