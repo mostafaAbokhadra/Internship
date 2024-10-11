@@ -25,14 +25,14 @@ Ventilation is measured as minute ventilation in the clinical setting, and it is
 7. **Compliance**: Change in volume divided by change in pressure. In respiratory physiology, total compliance is a mix of lung and chest wall compliance as these two factors cannot be separated in a patient.
 
 #### RR or f
-#### I:E
-#### sigh Volume
+the number of breaths you take per minute
+
+#### I:E (inspiration to expiration ratio)
+A typical I:E ratio for most situations would be 1:2
 
 **Peak pressure** is the pressure achieved during inspiration when the air is being pushed into the lungs and is a measure of **airway resistance**
 
 **Plateau pressure** is the static pressure achieved at the end of a full inspiration. To measure plateau pressure, we need to perform an inspiratory hold on the ventilator to permit the pressure to equalize through the system. Plateau pressure is a **measure of alveolar pressure and lung compliance**, Normal plateau pressure is <mark>below 30 cm H20</mark>, and higher pressure can generate barotrauma.
-
-#### trigger sensitivity
 
 ### Indications for Mechanical Ventilation
 1. acute respiratory failure, either hypoxic or hypercapnic.(most common)
@@ -139,14 +139,194 @@ SBT should be performed for **30 to 120** minutes, and the patient should be mon
 If after this time patient meets criteria for successful SBT (RR < 35bpm; no signs of distress; HR <140/min and HR variability less than 20%; O2 sat greater than 90% or PaO2 greater than 60 mmHg on FiO2 less than 0.4; SBP greater than 80 and less than 180 mmHg or less than 20% change from baseline), then the assessment for airway removal should be done by performing a cuff leak test when indicated.
 
 If the patient is determined to be ready, the ETT should be removed and the patient should be monitored closely. In patients with high risk for reintubation (failure of two or more SBTs, CHF, CO2 greater than 45 after extubation, weak cough, pneumonia as a cause of respiratory failure), the use of noninvasive positive pressure ventilation after extubation as a bridge to ventilator free-breathing, has been shown to reduce ICU mortality and lower risk of intubation. This effect was not seen if the patient had already developed respiratory distress. High flow nasal cannula has also shown reduced reintubation rates, although no effect on mortality has been seen.
+
 ### alarms causes and managements
 (low pressure, high pressure, decrease minute or tidal volume, increased minute or tidal volume, RR alarm, temperatrue alarm, vent inoperable, apnea alarm)
+
 ### complications of MV
-- Ventilator-Associated Lung Injury
-- Ventilator-Associated Events 
-- Hemodynamic Changes
-- atelect/baro/volu traumas
+
+Mechanical ventilation is a life-saving intervention for many patients, but it can also lead to various complications. These complications can be categorized into several groups:
+
+### Respiratory System Complications:
+
+* **Barotrauma:** Overinflation of the lungs can cause damage to the alveoli and surrounding tissues, leading to conditions like pneumothorax, pneumomediastinum, and subcutaneous emphysema.
+* **Volutrauma:** Excessive tidal volumes can also cause lung injury, particularly in patients with acute respiratory distress syndrome (ARDS).
+* **Atelectasis:** Collapse of lung segments due to inadequate ventilation or surfactant deficiency.
+* **Ventilator-Associated Pneumonia (VAP):** Infection of the lungs associated with mechanical ventilation.
+* **Oxygen Toxicity:** Prolonged exposure to high concentrations of oxygen can damage lung tissue.
+
+### Cardiovascular System Complications:
+
+* **Hemodynamic Instability:** Mechanical ventilation can affect blood pressure and heart rate, particularly in patients with underlying cardiovascular conditions.
+* **Arrhythmias:** Changes in intrathoracic pressure can trigger arrhythmias in some patients.
+* **Renal Dysfunction:** Decreased blood flow to the kidneys can lead to renal dysfunction or failure.
+
+### Neurological Complications:
+
+* **Traumatic Brain Injury:** If the patient is already suffering from a traumatic brain injury, mechanical ventilation can exacerbate the condition.
+* **Neuromuscular Weakness:** Prolonged mechanical ventilation can lead to muscle weakness and atrophy.
+
+### Other Complications:
+
+* **Infection:** Ventilated patients are at increased risk of infections, including bloodstream infections and urinary tract infections.
+* **Psychological Distress:** Being on a ventilator can be distressing for patients, leading to anxiety, depression, and post-traumatic stress disorder (PTSD).
+
+**To minimize these complications, it is essential to:**
+
+* **Monitor the patient closely:** Continuously monitor vital signs, lung mechanics, and laboratory tests.
+* **Use appropriate ventilator settings:** Adjust ventilator settings based on the patient's condition and goals of care.
+* **Prevent ventilator-associated pneumonia:** Implement strategies to prevent infection, such as proper hand hygiene and oral care.
+* **Manage other risk factors:** Address underlying conditions that may increase the risk of complications.
+
+**If you have any further questions about mechanical ventilator complications or their prevention, please feel free to ask.**
+
+
+
+
+
+
+
 
 ### vap bundel
+Ventilator-associated pneumonia (VAP) is one of the most serious treatment-related infections resulting in high mortalities and costs . (VAP) is one of the main types of infection in critically ill mechanically ventilated patients, leading to increased mortality, morbidity, hospital stay, economic and psychological costs for patients and their families . 
+During the last two decades, many guidelines have been proposed to reduce the incidence of VAP. It has been scientifically proven that interventions must be combined in order to be useful .
+Bundle is a set of individual components, combined to make a set of quality indicators for a specific system, procedure, or treatment .
+These interventions must be all implemented together to achieve significantly better results .
+VAP bundle 
+1. Subglottic suction tubes
+Secretions are potentially able to bypass the ETT cuff, especially when it is deflated . Secretions that 
+pool above the ETT but below the vocal cords are a potential source of pathogens that could cause 
+VAP. Since conventional suction methods cannot access this area, ETT tubes that have a designated 
+suction catheter for this space allow this pool to be drained. 
+2. Cuff pressures
+Micro-aspiration can be reduced by maintaining an endotracheal tube cuff pressure between 20-30 
+cmH2O. Based on recent recommendations, cuff pressure should be checked and adjusted around 25 
+cmH2O, at least 4 hourly. It is noted that individual assessment is required as there will be cases 
+where a patient’s clinical condition and ventilation may require higher pressures - the rationale for  
+this decision must be documented and the position reviewed as a minimum daily .
+3. Daily sedation interruption and assessment of readiness to extubate 
+Sedation of intubated patients to ensure patient comfort is universal practice. Continuous sedation  
+can lead to accumulation of sedatives and over sedation, and is associated with increased duration of 
+mechanical ventilation. Since intubation and mechanical ventilation predisposes patients to VAP, 
+reducing the duration of mechanical ventilation should reduce that time at risk for developing VAP. 
+Strategies used successfully to reduce the duration of mechanical ventilation are daily sedation 
+interruption (DSI) and daily spontaneous breathing trials (SBT). More recently there has been a move 
+towards targeted sedation to allow the patient to be calm, comfortable and cooperative which broadly 
+equates to a RASS score of -1/0.
+4. Semi recumbent positioning
+Aspiration of oropharyngeal or gastric contents is implicated in the pathogenesis of VAP. Nursing 
+the mechanically ventilated patient in a semi-recumbent position aims to prevent aspiration of gastric 
+content. Whilst elevating the bed to 45 degrees has been shown to reduce VAP, practically this does 
+not appear to be achievable. The exact degree of elevation needed to prevent VAP is unclear but 
+aiming to avoid the supine position and raising the bed to at least 30 degrees is recommended.
+5. Avoidance of scheduled ventilator circuit changes
+Humidified gases condense in the ventilator circuitry and are at risk of becoming contaminated. 
+Evidence suggests that frequent circuit changes are associated with an increased incidence of VAP, 
+probably due to the excessive manipulation of the ventilator circuit causing contaminated secretions 
+to enter the bronchial tree via the ETT lumen. Changing the ventilator circuit should occur only when 
+clinically indicated such as visible soiling or when faulty, following manufacturer’s recommendations 
+(7-14 days). This does not increase the incidence of VAP and would result in significant cost savings 
+compared to routine changing of circuit .
+6. Stress ulcer prophylaxis
+The prevention of stress ulcers must be weighed against the increased risk of VAP. There is
+insufficient evidence to give a clear recommendation of the use of SUP and the potential protective 
+benefits of enteral feeding. We therefore recommend consideration of the risk profile of GI bleeding 
+in each patient with judicious use of SUP in patients considered to be at risk of GI bleeding.
+7. Oral Hygiene
+In light of this recent evidence the use of oral cholrhexadine is advocated as part of routine oral 
+hygiene. Oral hygiene remains important inventilated patients in order to remove dental plaque 
+(which may lead to gingivitis or dental caries), for patient comfort, and to promote a ‘normal’ 
+microbial community. Therefore, regular oral hygiene remains an essential component of care.
+
 ### nursing care for MV patient
+Caring for a patient on mechanical ventilation involves meticulous attention to their physical, emotional, and medical needs. The key aspects include:
+
+1. Airway Management:
+
+Securing the airway: Ensure the endotracheal (ET) tube or tracheostomy is properly secured to avoid accidental extubation.
+
+Suctioning: Regular suctioning of the airway is important to prevent mucus buildup, which can block airways and lead to infections.
+
+
+2. Ventilator Settings:
+
+Monitoring: Frequently check the ventilator settings (tidal volume, respiratory rate, FiO2, PEEP) as prescribed by the physician to ensure optimal oxygenation and ventilation.
+
+Alarms: Always monitor ventilator alarms, which may indicate problems like tube blockage, disconnection, or changes in lung compliance.
+
+
+3. Infection Prevention:
+
+Oral care: Perform oral hygiene regularly to prevent ventilator-associated pneumonia (VAP). Chlorhexidine mouthwash is often used.
+
+Hand hygiene: Wash hands before and after touching the patient, and use sterile techniques for procedures like suctioning.
+
+Positioning: Reposition the patient every 2 hours to prevent pressure ulcers and improve lung function.
+
+
+4. Sedation and Comfort:
+
+Sedation management: Most patients on mechanical ventilation require sedation to reduce anxiety and prevent self-extubation. Regularly assess the need for sedation using scales like the Richmond Agitation-Sedation Scale (RASS).
+
+Pain management: Administer pain relief as needed, and assess for pain using non-verbal pain indicators.
+
+
+5. Monitoring and Assessment:
+
+Vital signs: Monitor heart rate, blood pressure, oxygen saturation, and respiratory rate regularly.
+
+ABGs (Arterial Blood Gases): Periodically check ABG values to assess the patient's oxygenation, ventilation, and acid-base balance.
+
+Fluid balance: Track input/output closely to avoid fluid overload or dehydration.
+
+
+6. Patient Communication and Emotional Support:
+
+Non-verbal communication: Use communication boards or other assistive methods to help patients express their needs.
+
+Family involvement: Involve family members to provide emotional support and to keep them informed about the patient's condition.
+
+
+7. Weaning and Extubation (if appropriate):
+
+Weaning protocols: Follow the physician’s orders and use weaning trials to gradually reduce ventilator support if the patient’s condition improves.
+
+Extubation readiness: Assess for extubation readiness based on clinical stability, adequate oxygenation, and strong cough/gag reflexes.
+
+
+By adhering to these principles, healthcare providers can improve outcomes for patients on mechanical ventilation while minimizing complications.
+
 ### role of nurse in weaning (before, during, after)
+The role of a nurse in the weaning of a patient from mechanical ventilation (MV) is critical and multifaceted. Here are the key responsibilities:
+
+### 1. *Assessment and Monitoring*
+   - *Patient Evaluation*: Continuously assess the patient’s respiratory status, including oxygen saturation, respiratory rate, and lung sounds.
+   - *Vital Signs*: Monitor vital signs closely, watching for any signs of distress or instability.
+   - *Sedation Levels*: Evaluate and manage sedation, ensuring the patient is awake enough to participate in weaning.
+
+### 2. *Collaboration with the Healthcare Team*
+   - *Interdisciplinary Communication*: Work with respiratory therapists, physicians, and other healthcare providers to develop and implement a weaning plan.
+   - *Feedback*: Provide input based on patient assessments and response to the weaning process.
+
+### 3. *Implementation of Weaning Protocols*
+   - *Readiness Assessment*: Help determine if the patient is ready to begin weaning based on established criteria (e.g., stable hemodynamics, adequate oxygenation).
+   - *Adjusting Ventilator Settings*: Assist in modifying ventilator settings according to the weaning protocol, such as reducing support levels gradually.
+
+### 4. *Patient Education and Support*
+   - *Patient and Family Education*: Explain the weaning process to the patient and family to alleviate anxiety and encourage cooperation.
+   - *Emotional Support*: Provide emotional and psychological support during the weaning process, recognizing that it can be stressful for patients.
+
+### 5. *Documentation*
+   - *Record Keeping*: Document all assessments, interventions, and patient responses accurately to ensure continuity of care.
+   - *Weaning Progress*: Keep detailed records of the weaning process, noting any challenges or adverse reactions.
+
+### 6. *Response to Complications*
+   - *Identifying Problems*: Quickly recognize signs of respiratory distress or complications during weaning, such as increased work of breathing or changes in vital signs.
+   - *Intervention*: Initiate appropriate interventions and notify the healthcare team as necessary.
+
+### 7. *Re-evaluation*
+   - *Continuous Evaluation*: Regularly reassess the patient’s readiness for further weaning or the need for re-intubation based on their status.
+   - *Adaptation of Plan*: Adjust the weaning plan as needed based on patient feedback and clinical findings.
+
+### Conclusion
+The nurse plays a vital role in ensuring a safe and effective weaning process from mechanical ventilation, balancing technical skills with compassionate care. Their involvement is crucial in promoting patient recovery and optimizing outcomes.
