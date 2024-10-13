@@ -1,15 +1,26 @@
 # mechanical ventilation
+#### Group 2-D
+
+مصطفى محمود مصطفى
+
+محمد يسري رشاد
+
+يوسف ممدوح مختار
+
+محمود ابوزيد محمد
+
+مؤمن ايمن عرفات
+
+فراج جمال فراج
 
 ### important terms and parameters
 
 1. **Ventilation**: Exchange of air between the lungs and the air (ambient or delivered by a ventilator), in other words, it is the process of moving air in and out of the lungs.
 
-> [!IMPORTANT]
 > ventilation most important effect is the removal of carbon dioxide (CO2) from the body, not on increasing blood oxygen content.
 
 Ventilation is measured as minute ventilation in the clinical setting, and it is calculated as <mark>respiratory rate (RR) times tidal volume (Vt)</mark>.
 
-> [!TIP]
 > In a mechanically ventilated patient, the CO2 content of the blood can be modified by changing the tidal volume or the respiratory rate.
 
 2. **Oxygenation**: Interventions that provide greater oxygen supply to the lungs, thus the circulation. In a mechanically ventilated patient, this can be achieved by increasing the fraction of inspired oxygen (FiO 2%) or the positive end-expiratory pressure (PEEP).
@@ -24,15 +35,15 @@ Ventilation is measured as minute ventilation in the clinical setting, and it is
 
 7. **Compliance**: Change in volume divided by change in pressure. In respiratory physiology, total compliance is a mix of lung and chest wall compliance as these two factors cannot be separated in a patient.
 
-#### RR or f
+8. **RR or f**
 the number of breaths you take per minute
 
-#### I:E (inspiration to expiration ratio)
+9. **I:E** (inspiration to expiration ratio)
 A typical I:E ratio for most situations would be 1:2
 
-**Peak pressure** is the pressure achieved during inspiration when the air is being pushed into the lungs and is a measure of **airway resistance**
+10. **Peak pressure** is the pressure achieved during inspiration when the air is being pushed into the lungs and is a measure of **airway resistance**
 
-**Plateau pressure** is the static pressure achieved at the end of a full inspiration. To measure plateau pressure, we need to perform an inspiratory hold on the ventilator to permit the pressure to equalize through the system. Plateau pressure is a **measure of alveolar pressure and lung compliance**, Normal plateau pressure is <mark>below 30 cm H20</mark>, and higher pressure can generate barotrauma.
+11. **Plateau pressure** is the static pressure achieved at the end of a full inspiration. To measure plateau pressure, we need to perform an inspiratory hold on the ventilator to permit the pressure to equalize through the system. Plateau pressure is a **measure of alveolar pressure and lung compliance**, Normal plateau pressure is <mark>below 30 cm H20</mark>, and higher pressure can generate barotrauma.
 
 ### Indications for Mechanical Ventilation
 1. acute respiratory failure, either hypoxic or hypercapnic.(most common)
