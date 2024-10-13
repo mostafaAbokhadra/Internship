@@ -13,6 +13,8 @@
 
 فراج جمال فراج 21416
 
+---
+
 ### important terms and parameters
 
 1. **Ventilation**: Exchange of air between the lungs and the air (ambient or delivered by a ventilator), in other words, it is the process of moving air in and out of the lungs.
