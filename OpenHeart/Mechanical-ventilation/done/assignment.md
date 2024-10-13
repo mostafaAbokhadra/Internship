@@ -141,7 +141,138 @@ If after this time patient meets criteria for successful SBT (RR < 35bpm; no sig
 If the patient is determined to be ready, the ETT should be removed and the patient should be monitored closely. In patients with high risk for reintubation (failure of two or more SBTs, CHF, CO2 greater than 45 after extubation, weak cough, pneumonia as a cause of respiratory failure), the use of noninvasive positive pressure ventilation after extubation as a bridge to ventilator free-breathing, has been shown to reduce ICU mortality and lower risk of intubation. This effect was not seen if the patient had already developed respiratory distress. High flow nasal cannula has also shown reduced reintubation rates, although no effect on mortality has been seen.
 
 ### alarms causes and managements
-(low pressure, high pressure, decrease minute or tidal volume, increased minute or tidal volume, RR alarm, temperatrue alarm, vent inoperable, apnea alarm)
+
+Mechanical ventilators comprise audible and visual alarm systems, which act as immediate warning signals to altered ventilation.
+
+#### Low pressure alarm
+
+**Causes:**
+- Patient disconnected from ventilator
+
+- Leaks due to a cuff leak, a hole in the tubing, ETT or ventilator tubing, leak in the humidifier
+
+**Action**:
+
+- Reconnect patient to mechanical ventilator (MV)
+- Auscultate neck for possible leak around endotracheal tube (ETT) cuff
+- Review chest film for endotracheal tube placement—may be too high
+- Check all tubing for loss of connection, starting at the patient and moving toward the humidifier
+- Check for patient or tube disconnection
+- Check adequacy of airflow
+- Ventilate the patient manually until the cause is found
+
+
+#### High-pressure or peak-pressure alarm
+
+**Causes**:
+- Decreased compliance
+- Increased airway resistance
+- Kinked tubing
+- Increased secretions
+- Patient biting the ETT
+- Tubing filled with water
+- Patient–ventilator asynchrony
+- ETT advanced into right main stem bronchus
+
+**Action**:
+
+- Suction patient
+- Administer inhaled β-agonists
+- Evaluate for pneumothorax if sudden
+- Evaluate chest film for ETT placement in the right main stem bronchus
+- Sedate if the patient is bucking the ventilator or biting the ETT
+- Auscultate breath sounds / Check tubing
+- Empty water into a receptacle; do not drain back into the humidifier
+- Recheck sensitivity and peak flow settings
+- Provide sedation/paralysis if indicated
+
+**Decrease minute or tidal volume**
+
+**Causes:**
+- Patient disconnected from ventilator
+- Leaks / Decreased compliance
+- Increased secretions
+- Sensor malfunction
+- Decreased patient-triggered RR
+
+**Action:**
+- Check all connections
+- Suction patient
+- Check RR
+- Change sensor
+- Check patient ventilator system
+
+#### Increased minute or tidal volume
+
+**Causes**:
+- Increased patient-triggered RR
+- Altered setting
+- Increased lung compliance
+- Sensor malfunction
+
+**Action:**
+
+- Check RR and patient ventilator system
+
+- Obtain ABGs
+
+- Evaluate patient SaO₂
+
+-Change sensor
+
+#### Respiratory rate alarm
+
+**Causes**:
+
+- Altered setting
+
+- Increased metabolic demand as in fever, pain, hypoxia, hypercapnia, tachypnea
+
+**Action**:
+
+- Check patient ventilator system
+
+- Check ABG
+
+
+**Temperature Alarm**
+
+**Causes:**
+
+- Adding cold water to humidifier
+
+- Altered setting
+
+- Cold air blowing on humidifier
+
+**Action**:
+
+- Wait
+
+- Reset
+
+- Redirect airflow
+
+#### Ventilator inoperable
+
+**Causes:**
+
+- Ventilator failure
+
+**Action**:
+
+- Ventilate the patient manually and have someone else troubleshoot the ventilator
+
+- Apnea alarm
+
+**Causes**:
+
+- No spontaneous breath taken in a preset number of seconds
+
+**Action:**
+
+- Encourage the patient to breathe or give the patient a single breath
+- Consider whether the rate should be increased
 
 ### complications of MV
 
@@ -177,15 +308,6 @@ Mechanical ventilation is a life-saving intervention for many patients, but it c
 * **Use appropriate ventilator settings:** Adjust ventilator settings based on the patient's condition and goals of care.
 * **Prevent ventilator-associated pneumonia:** Implement strategies to prevent infection, such as proper hand hygiene and oral care.
 * **Manage other risk factors:** Address underlying conditions that may increase the risk of complications.
-
-**If you have any further questions about mechanical ventilator complications or their prevention, please feel free to ask.**
-
-
-
-
-
-
-
 
 ### vap bundel
 Ventilator-associated pneumonia (VAP) is one of the most serious treatment-related infections resulting in high mortalities and costs . (VAP) is one of the main types of infection in critically ill mechanically ventilated patients, leading to increased mortality, morbidity, hospital stay, economic and psychological costs for patients and their families . 
