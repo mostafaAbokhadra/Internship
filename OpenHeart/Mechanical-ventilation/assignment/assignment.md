@@ -19,11 +19,11 @@
 
 1. **Ventilation**: Exchange of air between the lungs and the air (ambient or delivered by a ventilator), in other words, it is the process of moving air in and out of the lungs.
 
-> ventilation most important effect is the removal of carbon dioxide (CO2) from the body, not on increasing blood oxygen content.
+   - ventilation most important effect is the **removal of carbon dioxide** (CO2) from the body, not on increasing blood oxygen content.
 
-Ventilation is measured as minute ventilation in the clinical setting, and it is calculated as <mark>respiratory rate (RR) times tidal volume (Vt)</mark>.
+   - Ventilation is measured as minute ventilation in the clinical setting, and it is calculated as **respiratory rate (RR) times tidal volume (Vt)**
 
-> In a mechanically ventilated patient, the CO2 content of the blood can be modified by changing the tidal volume or the respiratory rate.
+   - In a mechanically ventilated patient, the CO2 content of the blood can be modified by **changing the tidal volume or the respiratory rate.**
 
 2. **Oxygenation**: Interventions that provide greater oxygen supply to the lungs, thus the circulation. In a mechanically ventilated patient, this can be achieved by increasing the fraction of inspired oxygen (FiO 2%) or the positive end-expiratory pressure (PEEP).
 
