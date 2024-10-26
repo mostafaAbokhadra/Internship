@@ -1,5 +1,5 @@
 ## mechanical ventilation
-NIH (ref)(https://www.ncbi.nlm.nih.gov/books/NBK448186/)
+NIH [ref](https://www.ncbi.nlm.nih.gov/books/NBK448186/)
 
 ### important terms
 
