@@ -1,5 +1,5 @@
 ## mechanical ventilation
-NIH (ref)(https://www.ncbi.nlm.nih.gov/books/NBK448186/)
+NIH [ref](https://www.ncbi.nlm.nih.gov/books/NBK448186/)
 
 Mechanical ventilation is a critical intervention to sustain life in acute or emergent settings, particularly in patients with compromised airways, impaired ventilation, or hypoxemic respiratory failure. This procedure involves applying positive pressure breaths and relies on the airway system's compliance and resistance. 
 

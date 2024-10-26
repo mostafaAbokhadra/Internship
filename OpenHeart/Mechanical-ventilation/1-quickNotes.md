@@ -5,7 +5,7 @@
 > - stiff lung ? -> can't increase VT or Ve to treat acidosis instread -> increase RR
 > - peak pressure -> a measure of airway resistance
 > - platue pressure -> measure of alveolar pressure and lung compliance
-> asthma -> compliance frequently changes -> unreliable tidal volumes-> hypercapnia or hyperventilation.
+> - asthma -> compliance frequently changes -> unreliable tidal volumes-> hypercapnia or hyperventilation.
 
 > [!IMPORTANT]
 > ventilation most important effect is the removal of carbon dioxide (CO2) from the body, not on increasing blood oxygen content.
@@ -18,7 +18,7 @@
 > - FIO2 and PEEP are the parameters responsible for oxyegentation (increasing o2 delivery and stauration)
 
 > [!NOTE]
-- mechanical ventilation? -> +ve pressure applied -> increase RA pressure -> decrease venous return -> decrease preload -> decrease overall CO -> hypotension -> so monitor BP (MAP) and compensate the effect by increasing systemic vascular resistance(vasopressors), This is a very important consideration in patients who may not be able to increase their SVR, like in patients with distributive shock (septic, neurogenic, or anaphylactic shock).
+> - mechanical ventilation? -> +ve pressure applied -> increase RA pressure -> decrease venous return -> decrease preload -> decrease overall CO -> hypotension -> so monitor BP (MAP) and compensate the effect by increasing systemic vascular resistance(vasopressors), This is a very important consideration in patients who may not be able to increase their SVR, like in patients with distributive shock (septic, neurogenic, or anaphylactic shock).
 > - +ve pressure -> decrease venous return -> decrease Right CO -> unexpcted benefit for cardiogenic pulmonary edema patient
 > - Any disease that destroys lung parenchyma like **emphysema** will <mark>increase</mark> compliance, any disease that generates stiffer lungs (ARDS, pneumonia, pulmonary edema, pulmonary fibrosis) will <mark>decrease</mark> lung compliance.
 > - **Peak pressure** is the pressure achieved during inspiration when the air is being pushed into the lungs and is a measure of **airway resistance**
