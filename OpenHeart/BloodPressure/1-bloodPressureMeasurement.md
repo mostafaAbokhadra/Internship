@@ -31,6 +31,10 @@ The blood pressure cuff should be inflated 30 mmHg beyond the point where the ra
 
 Deflation of the cuff should occur in a slow and controlled manner at a rate of 2 to 3 mmHg per second
 
+لاحظ ان الصوت اللي هتسمعه هيبدا ضعيف وهتلاقيه بيزيد فالقوه تدريجيا بعد كده هيضعف تدريجيا لحد ما يقف خالص
+
+انت هتسجل قراية اول صوت هتسمعه ايا كانت قوته ازاي وهتسجل القرايه اللي عندها الصوت وقف خالص
+
 قيس برضو ال orthostaic hypotension
 
 > [!NOTE]
@@ -43,6 +47,9 @@ Deflation of the cuff should occur in a slow and controlled manner at a rate of 
 - **Phase 3** is when the sharper sounds return that does not have the intensity of phase 1
 - **Phase 4** is a well-defined muffled sound that progresses to become soft and blowing
 - **Phase 5** is the absence of sounds
+
+> [!NOTE]
+> Typically, only Phase I (systolic) and Phase 5 (diastolic) are recorded in standard blood pressure measurement.
 
 > [!IMPORTANT]
 > - Medical professionals should be aware of the <mark>auscultatory gap</mark>, which can result in the premature recording of diastolic pressure. In some patients, particularly those with <mark>wide pulse pressure</mark>, Korotkoff sounds can temporarily fade but reappear as the cuff deflates. Medical professionals should thus continue to auscultate over the brachial artery even when Korotkoff sounds disappear to eliminate the possibility of an auscultatory gap. Only the final disappearance of Korotkoff sounds should be used to record the diastolic pressure
@@ -81,6 +88,6 @@ Deflation of the cuff should occur in a slow and controlled manner at a rate of 
 - Recent surgical wounds
 - Mastectomy
 
-### reading
+### readings
 
 ![](./HTNStages.png)
